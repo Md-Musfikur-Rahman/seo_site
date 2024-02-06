@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FAQ &#8211;Rankz</title>
+    <title>Contact &#8211;Devsite Studio</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -714,8 +714,8 @@
     />
     <link
       rel="stylesheet"
-      id="elementor-post-18-css"
-      href="https://kitpapa.net/rankz/wp-content/uploads/elementor/css/post-18.css?ver=1704447053"
+      id="elementor-post-22-css"
+      href="https://kitpapa.net/rankz/wp-content/uploads/elementor/css/post-22.css?ver=1704892687"
       media="all"
     />
     <link
@@ -789,7 +789,7 @@
     <link
       rel="alternate"
       type="application/json"
-      href="https://kitpapa.net/rankz/wp-json/wp/v2/pages/18"
+      href="https://kitpapa.net/rankz/wp-json/wp/v2/pages/22"
     />
     <link
       rel="EditURI"
@@ -798,17 +798,17 @@
       href="https://kitpapa.net/rankz/xmlrpc.php?rsd"
     />
     <meta name="generator" content="WordPress 6.4.2" />
-    <link rel="canonical" href="https://kitpapa.net/rankz/faq/" />
-    <link rel="shortlink" href="https://kitpapa.net/rankz/?p=18" />
+    <link rel="canonical" href="https://kitpapa.net/rankz/contact/" />
+    <link rel="shortlink" href="https://kitpapa.net/rankz/?p=22" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Ffaq%2F"
+      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Fcontact%2F"
     />
     <link
       rel="alternate"
       type="text/xml+oembed"
-      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Ffaq%2F&#038;format=xml"
+      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Fcontact%2F&#038;format=xml"
     />
     <meta
       name="generator"
@@ -816,226 +816,25 @@
     />
   </head>
   <body
-    class="page-template page-template-elementor_header_footer page page-id-18 jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-34 elementor-page elementor-page-18"
+    class="page-template page-template-elementor_header_footer page page-id-22 jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-34 elementor-page elementor-page-22"
   >
-    <div
-      class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support"
-    >
-      <div
-        data-elementor-type="wp-post"
-        data-elementor-id="128"
-        class="elementor elementor-128"
-      >
-        <div
-          class="elementor-element elementor-element-5a4f4e18 e-flex e-con-boxed e-con e-parent"
-          data-id="5a4f4e18"
-          data-element_type="container"
-          data-settings='{"background_background":"classic","content_width":"boxed"}'
-          data-core-v316-plus="true"
-        >
-          <div class="e-con-inner">
-            <div
-              class="elementor-element elementor-element-37e4449d elementor-widget elementor-widget-image"
-              data-id="37e4449d"
-              data-element_type="widget"
-              data-widget_type="image.default"
-            >
-              <div class="elementor-widget-container">
-                <style>
-                  /*! elementor - v3.18.0 - 20-12-2023 */
-                  .elementor-widget-image {
-                    text-align: center;
-                  }
-
-                  .elementor-widget-image a {
-                    display: inline-block;
-                  }
-
-                  .elementor-widget-image a img[src$=".svg"] {
-                    width: 48px;
-                  }
-
-                  .elementor-widget-image img {
-                    vertical-align: middle;
-                    display: inline-block;
-                  }
-                </style>
-                <a href="#">
-                  <img
-                    fetchpriority="high"
-                    width="656"
-                    height="169"
-                    src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png"
-                    class="attachment-full size-full wp-image-187"
-                    alt=""
-                    decoding="async"
-                    srcset="
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png        656w,
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1-300x77.png 300w
-                    "
-                    sizes="(max-width: 656px) 100vw, 656px"
-                  />
-                </a>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-5b15e77a elementor-widget elementor-widget-jkit_nav_menu"
-              data-id="5b15e77a"
-              data-element_type="widget"
-              data-widget_type="jkit_nav_menu.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_18__65c1ce974b2e0"
-                  data-item-indicator='&lt;i aria-hidden="true" class="jki jki-chevron-down-light"&gt;&lt;/i&gt;'
-                >
-                  <button class="jkit-hamburger-menu">
-                    <i aria-hidden="true" class="jki jki-menu-11-light"></i>
-                  </button>
-                  <div class="jkit-menu-wrapper">
-                    <div class="jkit-menu-container">
-                      <ul
-                        id="menu-main-menu"
-                        class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"
-                      >
-                        <li
-                          id="menu-item-29"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29"
-                        >
-                          <a href="https://kitpapa.net/rankz/">Home</a>
-                        </li>
-                        <li
-                          id="menu-item-25"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"
-                        >
-                          <a href="https://kitpapa.net/rankz/about/">About</a>
-                        </li>
-                        <li
-                          id="menu-item-32"
-                          class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-32"
-                        >
-                          <a href="#">Pages</a>
-                          <ul class="sub-menu">
-                            <li
-                              id="menu-item-31"
-                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"
-                            >
-                              <a href="https://kitpapa.net/rankz/services/"
-                                >Services</a
-                              >
-                            </li>
-                            <li
-                              id="menu-item-30"
-                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"
-                            >
-                              <a href="https://kitpapa.net/rankz/pricing/"
-                                >Pricing</a
-                              >
-                            </li>
-                            <li
-                              id="menu-item-28"
-                              class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-28"
-                            >
-                              <a
-                                href="https://kitpapa.net/rankz/faq/"
-                                aria-current="page"
-                                >FAQ</a
-                              >
-                            </li>
-                          </ul>
-                        </li>
-                        <li
-                          id="menu-item-26"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"
-                        >
-                          <a href="https://kitpapa.net/rankz/blog/">Blog</a>
-                        </li>
-                        <li
-                          id="menu-item-27"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"
-                        >
-                          <a href="https://kitpapa.net/rankz/contact/"
-                            >Contact</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="jkit-nav-identity-panel">
-                      <div class="jkit-nav-site-title">
-                        <a
-                          href="https://kitpapa.net/rankz"
-                          class="jkit-nav-logo"
-                        >
-                          <img
-                            src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png"
-                          />
-                        </a>
-                      </div>
-                      <button class="jkit-close-menu">
-                        <svg
-                          aria-hidden="true"
-                          class="e-font-icon-svg e-fas-times"
-                          viewBox="0 0 352 512"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <path
-                            d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
-                          ></path>
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                  <div class="jkit-overlay"></div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-5694ec9e elementor-widget__width-auto e-transform elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-jkit_button"
-              data-id="5694ec9e"
-              data-element_type="widget"
-              data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":10,"sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}'
-              data-widget_type="jkit_button.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-button icon-position-before jeg_module_18_1_65c1ce9750ca5"
-                >
-                  <a href="#" class="jkit-button-wrapper">
-                    <svg
-                      aria-hidden="true"
-                      class="e-font-icon-svg e-fas-phone-alt"
-                      viewBox="0 0 512 512"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"
-                      ></path>
-                    </svg>
-                    Contact Us
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+<?php include './header.php' ?>
     <div
       data-elementor-type="wp-page"
-      data-elementor-id="18"
-      class="elementor elementor-18"
+      data-elementor-id="22"
+      class="elementor elementor-22"
     >
       <div
-        class="elementor-element elementor-element-21d1b180 e-flex e-con-boxed e-con e-parent"
-        data-id="21d1b180"
+        class="elementor-element elementor-element-69d78320 e-flex e-con-boxed e-con e-parent"
+        data-id="69d78320"
         data-element_type="container"
         data-settings='{"background_background":"gradient","content_width":"boxed"}'
         data-core-v316-plus="true"
       >
         <div class="e-con-inner">
           <div
-            class="elementor-element elementor-element-41dcbc61 elementor-widget elementor-widget-heading"
-            data-id="41dcbc61"
+            class="elementor-element elementor-element-78a5af20 elementor-widget elementor-widget-heading"
+            data-id="78a5af20"
             data-element_type="widget"
             data-widget_type="heading.default"
           >
@@ -1082,13 +881,13 @@
                 }
               </style>
               <h1 class="elementor-heading-title elementor-size-default">
-                Get Your Questions Answered Here
+                Stay Connected with Rankz
               </h1>
             </div>
           </div>
           <div
-            class="elementor-element elementor-element-7a7c12e0 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
-            data-id="7a7c12e0"
+            class="elementor-element elementor-element-2784821 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
+            data-id="2784821"
             data-element_type="widget"
             data-settings='{"_animation":"fadeIn","_animation_delay":400}'
             data-widget_type="text-editor.default"
@@ -1143,533 +942,948 @@
         </div>
       </div>
       <div
-        class="elementor-element elementor-element-2ec2bc30 e-flex e-con-boxed e-con e-parent"
-        data-id="2ec2bc30"
+        class="elementor-element elementor-element-1c4557aa e-flex e-con-boxed e-con e-parent"
+        data-id="1c4557aa"
         data-element_type="container"
-        data-settings='{"content_width":"boxed"}'
+        data-settings='{"background_background":"classic","content_width":"boxed"}'
         data-core-v316-plus="true"
       >
         <div class="e-con-inner">
           <div
-            class="elementor-element elementor-element-273879f5 e-con-full e-flex e-con e-child"
-            data-id="273879f5"
-            data-element_type="container"
-            data-settings='{"content_width":"full"}'
-          >
-            <div
-              class="elementor-element elementor-element-4c2c3161 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="4c2c3161"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":600}'
-            >
-              <div
-                class="elementor-element elementor-element-544ef115 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="544ef115"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_2_65c1ce975d604"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Can I Upgrade my Subscription?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-3f55296e e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="3f55296e"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":800}'
-            >
-              <div
-                class="elementor-element elementor-element-33e64f02 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="33e64f02"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_3_65c1ce975ecfe"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        First-Page Google Guarantee?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-1903ad33 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="1903ad33"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1000}'
-            >
-              <div
-                class="elementor-element elementor-element-62953908 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="62953908"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_4_65c1ce9760d5a"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Customized Marketing Strategies?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="elementor-element elementor-element-2dd40421 e-con-full e-flex e-con e-child"
-            data-id="2dd40421"
-            data-element_type="container"
-            data-settings='{"content_width":"full"}'
-          >
-            <div
-              class="elementor-element elementor-element-53e72ae3 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="53e72ae3"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1200}'
-            >
-              <div
-                class="elementor-element elementor-element-442a2f9b elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="442a2f9b"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_5_65c1ce9762da0"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Do You Offer Local SEO Services?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-506f2992 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="506f2992"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1400}'
-            >
-              <div
-                class="elementor-element elementor-element-42789395 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="42789395"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_6_65c1ce97643f9"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Is Blogging Essential for SEO Success?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-9a57ad0 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="9a57ad0"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1600}'
-            >
-              <div
-                class="elementor-element elementor-element-1f80f109 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="1f80f109"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_7_65c1ce9765ab7"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        What Is the ROI of Digital Marketing?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div
-        class="elementor-element elementor-element-672c4dba e-flex e-con-boxed e-con e-parent"
-        data-id="672c4dba"
-        data-element_type="container"
-        data-settings='{"content_width":"boxed"}'
-        data-core-v316-plus="true"
-      >
-        <div class="e-con-inner">
-          <div
-            class="elementor-element elementor-element-435963d3 e-con-full e-flex e-con e-child"
-            data-id="435963d3"
+            class="elementor-element elementor-element-53959d08 e-con-full e-flex e-con e-child"
+            data-id="53959d08"
             data-element_type="container"
             data-settings='{"content_width":"full","background_background":"classic"}'
           >
             <div
-              class="elementor-element elementor-element-72c52798 elementor-invisible elementor-widget elementor-widget-heading"
-              data-id="72c52798"
-              data-element_type="widget"
-              data-settings='{"_animation":"fadeIn","_animation_delay":200}'
-              data-widget_type="heading.default"
+              class="elementor-element elementor-element-6871b462 e-con-full e-flex e-con e-child"
+              data-id="6871b462"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic"}'
             >
-              <div class="elementor-widget-container">
-                <h2 class="elementor-heading-title elementor-size-default">
-                  Have Any Questions ? Please Contact Us
-                </h2>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-4095fa14 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
-              data-id="4095fa14"
-              data-element_type="widget"
-              data-settings='{"_animation":"fadeIn","_animation_delay":400}'
-              data-widget_type="text-editor.default"
-            >
-              <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-dad5cf8 elementor-widget__width-auto e-transform elementor-widget elementor-widget-jkit_button"
-              data-id="dad5cf8"
-              data-element_type="widget"
-              data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":10,"sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}'
-              data-widget_type="jkit_button.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-button icon-position-after jeg_module_18_8_65c1ce9768f66"
-                >
-                  <a href="#" class="jkit-button-wrapper">
-                    Contact Us<i
-                      aria-hidden="true"
-                      class="jki jki-right-arrow-light"
-                    ></i>
-                  </a>
+              <div
+                class="elementor-element elementor-element-560945c7 elementor-invisible elementor-widget elementor-widget-heading"
+                data-id="560945c7"
+                data-element_type="widget"
+                data-settings='{"_animation":"fadeIn","_animation_delay":200}'
+                data-widget_type="heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <h3 class="elementor-heading-title elementor-size-default">
+                    Leave Your Message
+                  </h3>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div
-        class="elementor-element elementor-element-37b87b2c e-flex e-con-boxed e-con e-parent"
-        data-id="37b87b2c"
-        data-element_type="container"
-        data-settings='{"content_width":"boxed"}'
-        data-core-v316-plus="true"
-      >
-        <div class="e-con-inner">
-          <div
-            class="elementor-element elementor-element-451388cb e-con-full e-flex e-con e-child"
-            data-id="451388cb"
-            data-element_type="container"
-            data-settings='{"content_width":"full"}'
-          >
-            <div
-              class="elementor-element elementor-element-7a57e052 elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading"
-              data-id="7a57e052"
-              data-element_type="widget"
-              data-settings='{"_animation":"fadeIn"}'
-              data-widget_type="heading.default"
-            >
-              <div class="elementor-widget-container">
-                <h5 class="elementor-heading-title elementor-size-default">
-                  Our Blog
-                </h5>
+              <div
+                class="elementor-element elementor-element-5929c319 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
+                data-id="5929c319"
+                data-element_type="widget"
+                data-settings='{"_animation":"fadeIn","_animation_delay":400}'
+                data-widget_type="text-editor.default"
+              >
+                <div class="elementor-widget-container">
+                  Consectetur adipiscing elit sed do eiusmod tempor incididunt
+                  ut labore et dolore magna aliqua.
+                </div>
               </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-2f6a458f elementor-invisible elementor-widget elementor-widget-heading"
-              data-id="2f6a458f"
-              data-element_type="widget"
-              data-settings='{"_animation":"fadeIn","_animation_delay":200}'
-              data-widget_type="heading.default"
-            >
-              <div class="elementor-widget-container">
-                <h2 class="elementor-heading-title elementor-size-default">
-                  Explore Our Blog and Articles
-                </h2>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-5b00daa8 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
-              data-id="5b00daa8"
-              data-element_type="widget"
-              data-settings='{"_animation":"fadeIn","_animation_delay":400}'
-              data-widget_type="text-editor.default"
-            >
-              <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
-              </div>
-            </div>
-          </div>
-          <div
-            class="elementor-element elementor-element-247350e0 e-con-full e-flex elementor-invisible e-con e-child"
-            data-id="247350e0"
-            data-element_type="container"
-            data-settings='{"content_width":"full","animation":"fadeIn","animation_delay":600}'
-          >
-            <div
-              class="elementor-element elementor-element-26ca25bf elementor-widget elementor-widget-jkit_post_block"
-              data-id="26ca25bf"
-              data-element_type="widget"
-              data-widget_type="jkit_post_block.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-postblock postblock-type-2 jkit-pagination-disable post-element jeg_module_18_9_65c1ce9773e69"
-                  data-id="jeg_module_18_9_65c1ce9773e69"
-                  data-settings='{"post_type":"post","number_post":{"unit":"px","size":1,"sizes":[]},"post_offset":0,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","pagination_mode":"disable","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-2","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":19,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
-                >
-                  <div class="jkit-block-container">
-                    <div class="jkit-posts jkit-ajax-flag">
-                      <article
-                        class="jkit-post post-157 post type-post status-publish format-standard has-post-thumbnail hentry category-blog"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
-                          >
-                            <div class="thumbnail-container">
-                              <img
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/group-of-intercultural-colleagues-having-discussio-2023-11-27-05-19-20-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/blog/"
-                                class="category-blog"
-                                >Blog</a
-                              >
-                            </span>
+              <div
+                class="elementor-element elementor-element-6c8b8dd7 elementor-widget elementor-widget-metform"
+                data-id="6c8b8dd7"
+                data-element_type="widget"
+                data-widget_type="metform.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    id="mf-response-props-id-145"
+                    data-previous-steps-style=""
+                    data-editswitchopen=""
+                    data-response_type="alert"
+                    data-erroricon="fas fa-exclamation-triangle"
+                    data-successicon="fas fa-check"
+                    data-messageposition="top"
+                    class="mf-scroll-top-no"
+                  >
+                    <div
+                      class="formpicker_warper formpicker_warper_editable"
+                      data-metform-formpicker-key="145"
+                    >
+                      <div class="elementor-widget-container">
+                        <div
+                          id="metform-wrap-6c8b8dd7-145"
+                          class="mf-form-wrapper"
+                          data-form-id="145"
+                          data-action="https://kitpapa.net/rankz/wp-json/metform/v1/entries/insert/145"
+                          data-wp-nonce="266be19d7d"
+                          data-form-nonce="fa7ba0a3e4"
+                          data-quiz-summery="false"
+                          data-save-progress="false"
+                          data-form-type="general-form"
+                          data-stop-vertical-effect=""
+                        ></div>
+                        
+                        <script type="text/mf" class="mf-template">
+
+                          	function controls_data (value){
+                          		let currentWrapper = "mf-response-props-id-145";
+                          		let currentEl = document.getElementById(currentWrapper);
+
+                          		return currentEl ? currentEl.dataset[value] : false
+                          	}
+
+
+                          	let is_edit_mode = '' ? true : false;
+                          	let message_position = controls_data('messageposition') || 'top';
+
+
+                          	let message_successIcon = controls_data('successicon') || '';
+                          	let message_errorIcon = controls_data('erroricon') || '';
+                          	let message_editSwitch = controls_data('editswitchopen') === 'yes' ? true : false;
+                          	let message_proClass = controls_data('editswitchopen') === 'yes' ? 'mf_pro_activated' : '';
+
+                          	let is_dummy_markup = is_edit_mode && message_editSwitch ? true : false;
+
+
+                          	return html`
+                          		<form
+                          			className="metform-form-content"
+                          			ref=${parent.formContainerRef}
+                          			onSubmit=${ validation.handleSubmit( parent.handleFormSubmit ) }
+
+                          			>
+
+
+                          			${is_dummy_markup ? message_position === 'top' ?  props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''}
+                          			${is_dummy_markup ? ' ' :  message_position === 'top' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''}
+
+                          			<!--------------------------------------------------------
+                          			*** IMPORTANT / DANGEROUS ***
+                          			${html``} must be used as in immediate child of "metform-form-main-wrapper"
+                          			class otherwise multistep form will not run at all
+                          			---------------------------------------------------------->
+
+                          			<div className="metform-form-main-wrapper" key=${'hide-form-after-submit'} ref=${parent.formRef}>
+                          			${html`
+                          						<div data-elementor-type="wp-post" key="2" data-elementor-id="145" className="elementor elementor-145">
+                          					<div className="elementor-element elementor-element-7d355f6a e-flex e-con-boxed e-con e-parent" data-id="7d355f6a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+                          			<div className="e-con-inner">
+                          <div className="elementor-element elementor-element-70e9c43b e-con-full e-flex e-con e-child" data-id="70e9c43b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                          		<div className="elementor-element elementor-element-64acb099 elementor-widget elementor-widget-mf-text" data-id="64acb099" data-element_type="widget" data-settings="{&quot;mf_input_name&quot;:&quot;mf-first-name&quot;}" data-widget_type="mf-text.default">
+                          		<div className="elementor-widget-container">
+
+                          <div className="mf-input-wrapper">
+
+                          	<input
+                          		type="text"
+                          		className="mf-input "
+                          		id="mf-input-text-64acb099"
+                          		name="mf-first-name"
+                          		placeholder="${ parent.decodeEntities(`Your Name`) } "
+                          							onInput=${parent.handleChange}
+                          			onBlur=${parent.handleChange}
+                          			aria-invalid=${validation.errors['mf-first-name'] ? 'true' : 'false'}
+                          			ref=${el =>{
+                          										parent.activateValidation({"message":"This field is required.","minLength":1,"maxLength":"","type":"none","required":true,"expression":"null"}, el)
+                          			}}
+                          						/>
+
+                          					<${validation.ErrorMessage}
+                          			errors=${validation.errors}
+                          			name="mf-first-name"
+                          			as=${html`<span className="mf-error-message"></span>`}
+                          			/>
+
+                          			</div>
+
+                          		</div>
+                          		</div>
+                          		</div>
+                          <div className="elementor-element elementor-element-2834644e e-con-full e-flex e-con e-child" data-id="2834644e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                          		<div className="elementor-element elementor-element-701db0b4 elementor-widget elementor-widget-mf-telephone" data-id="701db0b4" data-element_type="widget" data-settings="{&quot;mf_input_name&quot;:&quot;mf-tel&quot;}" data-widget_type="mf-telephone.default">
+                          		<div className="elementor-widget-container">
+
+                          <div className="mf-input-wrapper">
+
+                          	<input
+                          		type="tel"
+                          		className="mf-input "
+                          		id="mf-input-telephone-701db0b4"
+                          		name="mf-tel"
+                          		placeholder="${ parent.decodeEntities(`Your Phone`) } "
+                          							onInput=${parent.handleChange}
+                          			aria-invalid=${validation.errors['mf-tel'] ? 'true' : 'false'}
+                          			ref=${el => parent.activateValidation({"message":"This field is required.","minLength":1,"maxLength":"","type":"none","required":true,"expression":"null"}, el)}
+                          						/>
+
+                          					<${validation.ErrorMessage}
+                          			errors=${validation.errors}
+                          			name="mf-tel"
+                          			as=${html`<span className="mf-error-message"></span>`}
+                          			/>
+
+
                           </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
-                              >The Ultimate Guide to SEO: Boosting Your
-                              Website’s Visibility</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy Is Right for You? Written by Kitpapa
-                              Published on January 5,...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
+
+                          		</div>
+                          		</div>
+                          		</div>
+                          <div className="elementor-element elementor-element-4ff17998 e-con-full e-flex e-con e-child" data-id="4ff17998" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                          		<div className="elementor-element elementor-element-3d523367 elementor-widget elementor-widget-mf-text" data-id="3d523367" data-element_type="widget" data-settings="{&quot;mf_input_name&quot;:&quot;mf-text&quot;}" data-widget_type="mf-text.default">
+                          		<div className="elementor-widget-container">
+
+                          <div className="mf-input-wrapper">
+
+                          	<input
+                          		type="text"
+                          		className="mf-input "
+                          		id="mf-input-text-3d523367"
+                          		name="mf-text"
+                          		placeholder="${ parent.decodeEntities(`Subject`) } "
+                          							onInput=${parent.handleChange}
+                          			onBlur=${parent.handleChange}
+                          			aria-invalid=${validation.errors['mf-text'] ? 'true' : 'false'}
+                          			ref=${el =>{
+                          										parent.activateValidation({"message":"This field is required.","minLength":1,"maxLength":"","type":"none","required":false,"expression":"null"}, el)
+                          			}}
+                          						/>
+
+                          					<${validation.ErrorMessage}
+                          			errors=${validation.errors}
+                          			name="mf-text"
+                          			as=${html`<span className="mf-error-message"></span>`}
+                          			/>
+
+                          			</div>
+
+                          		</div>
+                          		</div>
+                          		<div className="elementor-element elementor-element-46a7d7ac elementor-widget elementor-widget-mf-textarea" data-id="46a7d7ac" data-element_type="widget" data-settings="{&quot;mf_input_name&quot;:&quot;mf-textarea&quot;}" data-widget_type="mf-textarea.default">
+                          		<div className="elementor-widget-container">
+
+                          <div className="mf-input-wrapper">
+
+                          	<textarea className="mf-input mf-textarea " id="mf-input-text-area-46a7d7ac"
+                          		name="mf-textarea"
+                          		placeholder="${ parent.decodeEntities(`Your Message`) } "
+                          		cols="30" rows="10"
+                          							onInput=${ parent.handleChange }
+                          			aria-invalid=${validation.errors['mf-textarea'] ? 'true' : 'false'}
+                          			ref=${ el => parent.activateValidation({"message":"This field is required.","minLength":1,"maxLength":"","type":"none","required":false,"expression":"null"}, el)}
+                          						></textarea>
+
+                          					<${validation.ErrorMessage}
+                          			errors=${validation.errors}
+                          			name="mf-textarea"
+                          			as=${html`<span className="mf-error-message"></span>`}
+                          			/>
+                          						</div>
+
+                          		</div>
+                          		</div>
+                          		<div className="elementor-element elementor-element-3765f2e4 mf-btn--justify mf-btn--tablet-justify mf-btn--mobile-justify elementor-widget elementor-widget-mf-button" data-id="3765f2e4" data-element_type="widget" data-widget_type="mf-button.default">
+                          		<div className="elementor-widget-container">
+                          			<div className="mf-btn-wraper " data-mf-form-conditional-logic-requirement="">
+                          					<button type="submit" className="metform-btn metform-submit-btn " id="">
+                          			<span>${ parent.decodeEntities(`Send Message`) } </span>
+                          		</button>
+                          	        </div>
+                                		</div>
+                          		</div>
+                          		</div>
+                          			</div>
+                          		</div>
+                          					</div>
+                          					`}
+                          			</div>
+
+                          			${is_dummy_markup ? message_position === 'bottom' ? props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''}
+                          			${is_dummy_markup ? ' ' : message_position === 'bottom' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''}
+
+                          		</form>
+                          	`
+                        </script>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div
-            class="elementor-element elementor-element-7276f7ac e-con-full e-flex elementor-invisible e-con e-child"
-            data-id="7276f7ac"
-            data-element_type="container"
-            data-settings='{"content_width":"full","animation":"fadeIn","animation_delay":800}'
-          >
             <div
-              class="elementor-element elementor-element-1d427500 elementor-widget elementor-widget-jkit_post_block"
-              data-id="1d427500"
-              data-element_type="widget"
-              data-widget_type="jkit_post_block.default"
+              class="elementor-element elementor-element-1423fd48 e-con-full e-flex e-con e-child"
+              data-id="1423fd48"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic"}'
             >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-postblock postblock-type-1 jkit-pagination-disable post-element jeg_module_18_10_65c1ce9779df6"
-                  data-id="jeg_module_18_10_65c1ce9779df6"
-                  data-settings='{"post_type":"post","number_post":{"unit":"px","size":2,"sizes":[]},"post_offset":0,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"oldest","pagination_mode":"disable","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-1","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":8,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
-                >
-                  <div class="jkit-block-container">
-                    <div class="jkit-posts jkit-ajax-flag">
-                      <article
-                        class="jkit-post post-150 post type-post status-publish format-standard has-post-thumbnail hentry category-blog"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
+              <div
+                class="elementor-element elementor-element-13ca1a88 elementor-widget elementor-widget-jkit_heading"
+                data-id="13ca1a88"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_22_2_65c1cb82a1bdc"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h3 class="heading-title">Our Location</h3>
+                    </div>
+                    <div class="heading-section-description">
+                      Jl. Raya Kuta Chartered No.70 Street, Denpasar - Bali
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="elementor-element elementor-element-5607f107 elementor-widget elementor-widget-google_maps"
+                data-id="5607f107"
+                data-element_type="widget"
+                data-widget_type="google_maps.default"
+              >
+                <div class="elementor-widget-container">
+                  <style>
+                    /*! elementor - v3.18.0 - 20-12-2023 */
+                    .elementor-widget-google_maps .elementor-widget-container {
+                      overflow: hidden;
+                    }
+
+                    .elementor-widget-google_maps .elementor-custom-embed {
+                      line-height: 0;
+                    }
+
+                    .elementor-widget-google_maps iframe {
+                      height: 300px;
+                    }
+                  </style>
+                  <div class="elementor-custom-embed">
+                    <iframe
+                      loading="lazy"
+                      src="https://maps.google.com/maps?q=Jl.%20Raya%20Kuta%20Chartered%20No.70%20Street%2C%20Denpasar%20-%20Bali&#038;t=m&#038;z=17&#038;output=embed&#038;iwloc=near"
+                      title="Jl. Raya Kuta Chartered No.70 Street, Denpasar - Bali"
+                      aria-label="Jl. Raya Kuta Chartered No.70 Street, Denpasar - Bali"
+                    ></iframe>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="elementor-element elementor-element-512feb6e elementor-tablet-align-left elementor-icon-list--layout-inline elementor-widget__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                data-id="512feb6e"
+                data-element_type="widget"
+                data-widget_type="icon-list.default"
+              >
+                <div class="elementor-widget-container">
+                  <link
+                    rel="stylesheet"
+                    href="https://kitpapa.net/rankz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
+                  />
+                  <ul class="elementor-icon-list-items elementor-inline-items">
+                    <li class="elementor-icon-list-item elementor-inline-item">
+                      <a href="#">
+                        <span class="elementor-icon-list-icon">
+                          <svg
+                            aria-hidden="true"
+                            class="e-font-icon-svg e-fas-phone-alt"
+                            viewBox="0 0 512 512"
+                            xmlns="http://www.w3.org/2000/svg"
                           >
-                            <div class="thumbnail-container">
-                              <img
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/blog/"
-                                class="category-blog"
-                                >Blog</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
-                              >Social Media Marketing Strategies for Small
-                              Businesses</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
-                      <article
-                        class="jkit-post post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-insight"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
+                            <path
+                              d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"
+                            ></path>
+                          </svg>
+                        </span>
+                        <span class="elementor-icon-list-text"
+                          >(+021) 885 148 11</span
+                        >
+                      </a>
+                    </li>
+                    <li class="elementor-icon-list-item elementor-inline-item">
+                      <a href="#">
+                        <span class="elementor-icon-list-icon">
+                          <svg
+                            aria-hidden="true"
+                            class="e-font-icon-svg e-fas-envelope"
+                            viewBox="0 0 512 512"
+                            xmlns="http://www.w3.org/2000/svg"
                           >
-                            <div class="thumbnail-container">
-                              <img
-                                loading="lazy"
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/asian-businessman-leads-presentation-with-colleagu-2023-11-27-05-12-46-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/insight/"
-                                class="category-insight"
-                                >Insight</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
-                              >PPC vs. SEO: Which Digital Advertising Strategy
-                              Is Right for You?</a
+                            <path
+                              d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"
+                            ></path>
+                          </svg>
+                        </span>
+                        <span class="elementor-icon-list-text"
+                          >support@domain.com</span
+                        >
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="elementor-element elementor-element-559ec7c7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                data-id="559ec7c7"
+                data-element_type="widget"
+                data-widget_type="divider.default"
+              >
+                <div class="elementor-widget-container">
+                  <style>
+                    /*! elementor - v3.18.0 - 20-12-2023 */
+                    .elementor-widget-divider {
+                      --divider-border-style: none;
+                      --divider-border-width: 1px;
+                      --divider-color: #0c0d0e;
+                      --divider-icon-size: 20px;
+                      --divider-element-spacing: 10px;
+                      --divider-pattern-height: 24px;
+                      --divider-pattern-size: 20px;
+                      --divider-pattern-url: none;
+                      --divider-pattern-repeat: repeat-x;
+                    }
+
+                    .elementor-widget-divider .elementor-divider {
+                      display: flex;
+                    }
+
+                    .elementor-widget-divider .elementor-divider__text {
+                      font-size: 15px;
+                      line-height: 1;
+                      max-width: 95%;
+                    }
+
+                    .elementor-widget-divider .elementor-divider__element {
+                      margin: 0 var(--divider-element-spacing);
+                      flex-shrink: 0;
+                    }
+
+                    .elementor-widget-divider .elementor-icon {
+                      font-size: var(--divider-icon-size);
+                    }
+
+                    .elementor-widget-divider .elementor-divider-separator {
+                      display: flex;
+                      margin: 0;
+                      direction: ltr;
+                    }
+
+                    .elementor-widget-divider--view-line_icon
+                      .elementor-divider-separator,
+                    .elementor-widget-divider--view-line_text
+                      .elementor-divider-separator {
+                      align-items: center;
+                    }
+
+                    .elementor-widget-divider--view-line_icon
+                      .elementor-divider-separator:after,
+                    .elementor-widget-divider--view-line_icon
+                      .elementor-divider-separator:before,
+                    .elementor-widget-divider--view-line_text
+                      .elementor-divider-separator:after,
+                    .elementor-widget-divider--view-line_text
+                      .elementor-divider-separator:before {
+                      display: block;
+                      content: "";
+                      border-bottom: 0;
+                      flex-grow: 1;
+                      border-top: var(--divider-border-width)
+                        var(--divider-border-style) var(--divider-color);
+                    }
+
+                    .elementor-widget-divider--element-align-left
+                      .elementor-divider
+                      .elementor-divider-separator
+                      > .elementor-divider__svg:first-of-type {
+                      flex-grow: 0;
+                      flex-shrink: 100;
+                    }
+
+                    .elementor-widget-divider--element-align-left
+                      .elementor-divider-separator:before {
+                      content: none;
+                    }
+
+                    .elementor-widget-divider--element-align-left
+                      .elementor-divider__element {
+                      margin-left: 0;
+                    }
+
+                    .elementor-widget-divider--element-align-right
+                      .elementor-divider
+                      .elementor-divider-separator
+                      > .elementor-divider__svg:last-of-type {
+                      flex-grow: 0;
+                      flex-shrink: 100;
+                    }
+
+                    .elementor-widget-divider--element-align-right
+                      .elementor-divider-separator:after {
+                      content: none;
+                    }
+
+                    .elementor-widget-divider--element-align-right
+                      .elementor-divider__element {
+                      margin-right: 0;
+                    }
+
+                    .elementor-widget-divider:not(
+                        .elementor-widget-divider--view-line_text
+                      ):not(.elementor-widget-divider--view-line_icon)
+                      .elementor-divider-separator {
+                      border-top: var(--divider-border-width)
+                        var(--divider-border-style) var(--divider-color);
+                    }
+
+                    .elementor-widget-divider--separator-type-pattern {
+                      --divider-border-style: none;
+                    }
+
+                    .elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line
+                      .elementor-divider-separator,
+                    .elementor-widget-divider--separator-type-pattern:not(
+                        .elementor-widget-divider--view-line
+                      )
+                      .elementor-divider-separator:after,
+                    .elementor-widget-divider--separator-type-pattern:not(
+                        .elementor-widget-divider--view-line
+                      )
+                      .elementor-divider-separator:before,
+                    .elementor-widget-divider--separator-type-pattern:not(
+                        [class*="elementor-widget-divider--view"]
+                      )
+                      .elementor-divider-separator {
+                      width: 100%;
+                      min-height: var(--divider-pattern-height);
+                      -webkit-mask-size: var(--divider-pattern-size) 100%;
+                      mask-size: var(--divider-pattern-size) 100%;
+                      -webkit-mask-repeat: var(--divider-pattern-repeat);
+                      mask-repeat: var(--divider-pattern-repeat);
+                      background-color: var(--divider-color);
+                      -webkit-mask-image: var(--divider-pattern-url);
+                      mask-image: var(--divider-pattern-url);
+                    }
+
+                    .elementor-widget-divider--no-spacing {
+                      --divider-pattern-size: auto;
+                    }
+
+                    .elementor-widget-divider--bg-round {
+                      --divider-pattern-repeat: round;
+                    }
+
+                    .rtl .elementor-widget-divider .elementor-divider__text {
+                      direction: rtl;
+                    }
+
+                    .e-con-inner > .elementor-widget-divider,
+                    .e-con > .elementor-widget-divider {
+                      width: var(--container-widget-width, 100%);
+                      --flex-grow: var(--container-widget-flex-grow);
+                    }
+                  </style>
+                  <div class="elementor-divider">
+                    <span class="elementor-divider-separator"></span>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="elementor-element elementor-element-79209687 e-flex e-con-boxed e-con e-child"
+                data-id="79209687"
+                data-element_type="container"
+                data-settings='{"content_width":"boxed"}'
+              >
+                <div class="e-con-inner">
+                  <div
+                    class="elementor-element elementor-element-7efd53a9 elementor-widget__width-auto elementor-widget elementor-widget-heading"
+                    data-id="7efd53a9"
+                    data-element_type="widget"
+                    data-widget_type="heading.default"
+                  >
+                    <div class="elementor-widget-container">
+                      <h4
+                        class="elementor-heading-title elementor-size-default"
+                      >
+                        Our Social Media :
+                      </h4>
+                    </div>
+                  </div>
+                  <div
+                    class="elementor-element elementor-element-5f56dc9d e-grid-align-left elementor-shape-circle elementor-widget__width-auto elementor-grid-0 elementor-widget elementor-widget-social-icons"
+                    data-id="5f56dc9d"
+                    data-element_type="widget"
+                    data-widget_type="social-icons.default"
+                  >
+                    <div class="elementor-widget-container">
+                      <style>
+                        /*! elementor - v3.18.0 - 20-12-2023 */
+                        .elementor-widget-social-icons.elementor-grid-0
+                          .elementor-widget-container,
+                        .elementor-widget-social-icons.elementor-grid-mobile-0
+                          .elementor-widget-container,
+                        .elementor-widget-social-icons.elementor-grid-tablet-0
+                          .elementor-widget-container {
+                          line-height: 1;
+                          font-size: 0;
+                        }
+
+                        .elementor-widget-social-icons:not(
+                            .elementor-grid-0
+                          ):not(.elementor-grid-tablet-0):not(
+                            .elementor-grid-mobile-0
+                          )
+                          .elementor-grid {
+                          display: inline-grid;
+                        }
+
+                        .elementor-widget-social-icons .elementor-grid {
+                          grid-column-gap: var(--grid-column-gap, 5px);
+                          grid-row-gap: var(--grid-row-gap, 5px);
+                          grid-template-columns: var(--grid-template-columns);
+                          justify-content: var(--justify-content, center);
+                          justify-items: var(--justify-content, center);
+                        }
+
+                        .elementor-icon.elementor-social-icon {
+                          font-size: var(--icon-size, 25px);
+                          line-height: var(--icon-size, 25px);
+                          width: calc(
+                            var(--icon-size, 25px) + 2 *
+                              var(--icon-padding, 0.5em)
+                          );
+                          height: calc(
+                            var(--icon-size, 25px) + 2 *
+                              var(--icon-padding, 0.5em)
+                          );
+                        }
+
+                        .elementor-social-icon {
+                          --e-social-icon-icon-color: #fff;
+                          display: inline-flex;
+                          background-color: #69727d;
+                          align-items: center;
+                          justify-content: center;
+                          text-align: center;
+                          cursor: pointer;
+                        }
+
+                        .elementor-social-icon i {
+                          color: var(--e-social-icon-icon-color);
+                        }
+
+                        .elementor-social-icon svg {
+                          fill: var(--e-social-icon-icon-color);
+                        }
+
+                        .elementor-social-icon:last-child {
+                          margin: 0;
+                        }
+
+                        .elementor-social-icon:hover {
+                          opacity: 0.9;
+                          color: #fff;
+                        }
+
+                        .elementor-social-icon-android {
+                          background-color: #a4c639;
+                        }
+
+                        .elementor-social-icon-apple {
+                          background-color: #999;
+                        }
+
+                        .elementor-social-icon-behance {
+                          background-color: #1769ff;
+                        }
+
+                        .elementor-social-icon-bitbucket {
+                          background-color: #205081;
+                        }
+
+                        .elementor-social-icon-codepen {
+                          background-color: #000;
+                        }
+
+                        .elementor-social-icon-delicious {
+                          background-color: #39f;
+                        }
+
+                        .elementor-social-icon-deviantart {
+                          background-color: #05cc47;
+                        }
+
+                        .elementor-social-icon-digg {
+                          background-color: #005be2;
+                        }
+
+                        .elementor-social-icon-dribbble {
+                          background-color: #ea4c89;
+                        }
+
+                        .elementor-social-icon-elementor {
+                          background-color: #d30c5c;
+                        }
+
+                        .elementor-social-icon-envelope {
+                          background-color: #ea4335;
+                        }
+
+                        .elementor-social-icon-facebook,
+                        .elementor-social-icon-facebook-f {
+                          background-color: #3b5998;
+                        }
+
+                        .elementor-social-icon-flickr {
+                          background-color: #0063dc;
+                        }
+
+                        .elementor-social-icon-foursquare {
+                          background-color: #2d5be3;
+                        }
+
+                        .elementor-social-icon-free-code-camp,
+                        .elementor-social-icon-freecodecamp {
+                          background-color: #006400;
+                        }
+
+                        .elementor-social-icon-github {
+                          background-color: #333;
+                        }
+
+                        .elementor-social-icon-gitlab {
+                          background-color: #e24329;
+                        }
+
+                        .elementor-social-icon-globe {
+                          background-color: #69727d;
+                        }
+
+                        .elementor-social-icon-google-plus,
+                        .elementor-social-icon-google-plus-g {
+                          background-color: #dd4b39;
+                        }
+
+                        .elementor-social-icon-houzz {
+                          background-color: #7ac142;
+                        }
+
+                        .elementor-social-icon-instagram {
+                          background-color: #262626;
+                        }
+
+                        .elementor-social-icon-jsfiddle {
+                          background-color: #487aa2;
+                        }
+
+                        .elementor-social-icon-link {
+                          background-color: #818a91;
+                        }
+
+                        .elementor-social-icon-linkedin,
+                        .elementor-social-icon-linkedin-in {
+                          background-color: #0077b5;
+                        }
+
+                        .elementor-social-icon-medium {
+                          background-color: #00ab6b;
+                        }
+
+                        .elementor-social-icon-meetup {
+                          background-color: #ec1c40;
+                        }
+
+                        .elementor-social-icon-mixcloud {
+                          background-color: #273a4b;
+                        }
+
+                        .elementor-social-icon-odnoklassniki {
+                          background-color: #f4731c;
+                        }
+
+                        .elementor-social-icon-pinterest {
+                          background-color: #bd081c;
+                        }
+
+                        .elementor-social-icon-product-hunt {
+                          background-color: #da552f;
+                        }
+
+                        .elementor-social-icon-reddit {
+                          background-color: #ff4500;
+                        }
+
+                        .elementor-social-icon-rss {
+                          background-color: #f26522;
+                        }
+
+                        .elementor-social-icon-shopping-cart {
+                          background-color: #4caf50;
+                        }
+
+                        .elementor-social-icon-skype {
+                          background-color: #00aff0;
+                        }
+
+                        .elementor-social-icon-slideshare {
+                          background-color: #0077b5;
+                        }
+
+                        .elementor-social-icon-snapchat {
+                          background-color: #fffc00;
+                        }
+
+                        .elementor-social-icon-soundcloud {
+                          background-color: #f80;
+                        }
+
+                        .elementor-social-icon-spotify {
+                          background-color: #2ebd59;
+                        }
+
+                        .elementor-social-icon-stack-overflow {
+                          background-color: #fe7a15;
+                        }
+
+                        .elementor-social-icon-steam {
+                          background-color: #00adee;
+                        }
+
+                        .elementor-social-icon-stumbleupon {
+                          background-color: #eb4924;
+                        }
+
+                        .elementor-social-icon-telegram {
+                          background-color: #2ca5e0;
+                        }
+
+                        .elementor-social-icon-thumb-tack {
+                          background-color: #1aa1d8;
+                        }
+
+                        .elementor-social-icon-tripadvisor {
+                          background-color: #589442;
+                        }
+
+                        .elementor-social-icon-tumblr {
+                          background-color: #35465c;
+                        }
+
+                        .elementor-social-icon-twitch {
+                          background-color: #6441a5;
+                        }
+
+                        .elementor-social-icon-twitter {
+                          background-color: #1da1f2;
+                        }
+
+                        .elementor-social-icon-viber {
+                          background-color: #665cac;
+                        }
+
+                        .elementor-social-icon-vimeo {
+                          background-color: #1ab7ea;
+                        }
+
+                        .elementor-social-icon-vk {
+                          background-color: #45668e;
+                        }
+
+                        .elementor-social-icon-weibo {
+                          background-color: #dd2430;
+                        }
+
+                        .elementor-social-icon-weixin {
+                          background-color: #31a918;
+                        }
+
+                        .elementor-social-icon-whatsapp {
+                          background-color: #25d366;
+                        }
+
+                        .elementor-social-icon-wordpress {
+                          background-color: #21759b;
+                        }
+
+                        .elementor-social-icon-xing {
+                          background-color: #026466;
+                        }
+
+                        .elementor-social-icon-yelp {
+                          background-color: #af0606;
+                        }
+
+                        .elementor-social-icon-youtube {
+                          background-color: #cd201f;
+                        }
+
+                        .elementor-social-icon-500px {
+                          background-color: #0099e5;
+                        }
+
+                        .elementor-shape-rounded
+                          .elementor-icon.elementor-social-icon {
+                          border-radius: 10%;
+                        }
+
+                        .elementor-shape-circle
+                          .elementor-icon.elementor-social-icon {
+                          border-radius: 50%;
+                        }
+                      </style>
+                      <div
+                        class="elementor-social-icons-wrapper elementor-grid"
+                      >
+                        <span class="elementor-grid-item">
+                          <a
+                            class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-animation-shrink elementor-repeater-item-0fb8cc7"
+                            target="_blank"
+                          >
+                            <span class="elementor-screen-only"
+                              >Jki-facebook-light</span
                             >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
+                            <i class="jki jki-facebook-light"></i>
+                          </a>
+                        </span>
+                        <span class="elementor-grid-item">
+                          <a
+                            class="elementor-icon elementor-social-icon elementor-social-icon-jki-twitter-light elementor-animation-shrink elementor-repeater-item-4be5bc7"
+                            target="_blank"
+                          >
+                            <span class="elementor-screen-only"
+                              >Jki-twitter-light</span
+                            >
+                            <i class="jki jki-twitter-light"></i>
+                          </a>
+                        </span>
+                        <span class="elementor-grid-item">
+                          <a
+                            class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-shrink elementor-repeater-item-147010a"
+                            target="_blank"
+                          >
+                            <span class="elementor-screen-only">Instagram</span>
+                            <svg
+                              class="e-font-icon-svg e-fab-instagram"
+                              viewBox="0 0 448 512"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
+                              ></path>
+                            </svg>
+                          </a>
+                        </span>
+                        <span class="elementor-grid-item">
+                          <a
+                            class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-shrink elementor-repeater-item-df2ad14"
+                            target="_blank"
+                          >
+                            <span class="elementor-screen-only">Youtube</span>
+                            <svg
+                              class="e-font-icon-svg e-fab-youtube"
+                              viewBox="0 0 576 512"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
+                              ></path>
+                            </svg>
+                          </a>
+                        </span>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -1715,7 +1929,6 @@
                 >
                   <div class="elementor-widget-container">
                     <img
-                      loading="lazy"
                       width="800"
                       height="854"
                       src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/image-GPPATQ6.png"
@@ -1771,7 +1984,6 @@
                 >
                   <div class="elementor-widget-container">
                     <img
-                      loading="lazy"
                       width="211"
                       height="117"
                       src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/arrow.png"
@@ -1790,7 +2002,7 @@
                 >
                   <div class="elementor-widget-container">
                     <div
-                      class="jeg-elementor-kit jkit-button icon-position-after jeg_module_18_11_65c1ce97837df"
+                      class="jeg-elementor-kit jkit-button icon-position-after jeg_module_22_3_65c1cb82a9526"
                     >
                       <a href="#" class="jkit-button-wrapper">
                         Contact Us<i
@@ -1834,10 +2046,6 @@
                   data-widget_type="icon-list.default"
                 >
                   <div class="elementor-widget-container">
-                    <link
-                      rel="stylesheet"
-                      href="https://kitpapa.net/rankz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"
-                    />
                     <ul class="elementor-icon-list-items">
                       <li class="elementor-icon-list-item">
                         <a href="#">
@@ -2078,159 +2286,6 @@
                   data-widget_type="divider.default"
                 >
                   <div class="elementor-widget-container">
-                    <style>
-                      /*! elementor - v3.18.0 - 20-12-2023 */
-                      .elementor-widget-divider {
-                        --divider-border-style: none;
-                        --divider-border-width: 1px;
-                        --divider-color: #0c0d0e;
-                        --divider-icon-size: 20px;
-                        --divider-element-spacing: 10px;
-                        --divider-pattern-height: 24px;
-                        --divider-pattern-size: 20px;
-                        --divider-pattern-url: none;
-                        --divider-pattern-repeat: repeat-x;
-                      }
-
-                      .elementor-widget-divider .elementor-divider {
-                        display: flex;
-                      }
-
-                      .elementor-widget-divider .elementor-divider__text {
-                        font-size: 15px;
-                        line-height: 1;
-                        max-width: 95%;
-                      }
-
-                      .elementor-widget-divider .elementor-divider__element {
-                        margin: 0 var(--divider-element-spacing);
-                        flex-shrink: 0;
-                      }
-
-                      .elementor-widget-divider .elementor-icon {
-                        font-size: var(--divider-icon-size);
-                      }
-
-                      .elementor-widget-divider .elementor-divider-separator {
-                        display: flex;
-                        margin: 0;
-                        direction: ltr;
-                      }
-
-                      .elementor-widget-divider--view-line_icon
-                        .elementor-divider-separator,
-                      .elementor-widget-divider--view-line_text
-                        .elementor-divider-separator {
-                        align-items: center;
-                      }
-
-                      .elementor-widget-divider--view-line_icon
-                        .elementor-divider-separator:after,
-                      .elementor-widget-divider--view-line_icon
-                        .elementor-divider-separator:before,
-                      .elementor-widget-divider--view-line_text
-                        .elementor-divider-separator:after,
-                      .elementor-widget-divider--view-line_text
-                        .elementor-divider-separator:before {
-                        display: block;
-                        content: "";
-                        border-bottom: 0;
-                        flex-grow: 1;
-                        border-top: var(--divider-border-width)
-                          var(--divider-border-style) var(--divider-color);
-                      }
-
-                      .elementor-widget-divider--element-align-left
-                        .elementor-divider
-                        .elementor-divider-separator
-                        > .elementor-divider__svg:first-of-type {
-                        flex-grow: 0;
-                        flex-shrink: 100;
-                      }
-
-                      .elementor-widget-divider--element-align-left
-                        .elementor-divider-separator:before {
-                        content: none;
-                      }
-
-                      .elementor-widget-divider--element-align-left
-                        .elementor-divider__element {
-                        margin-left: 0;
-                      }
-
-                      .elementor-widget-divider--element-align-right
-                        .elementor-divider
-                        .elementor-divider-separator
-                        > .elementor-divider__svg:last-of-type {
-                        flex-grow: 0;
-                        flex-shrink: 100;
-                      }
-
-                      .elementor-widget-divider--element-align-right
-                        .elementor-divider-separator:after {
-                        content: none;
-                      }
-
-                      .elementor-widget-divider--element-align-right
-                        .elementor-divider__element {
-                        margin-right: 0;
-                      }
-
-                      .elementor-widget-divider:not(
-                          .elementor-widget-divider--view-line_text
-                        ):not(.elementor-widget-divider--view-line_icon)
-                        .elementor-divider-separator {
-                        border-top: var(--divider-border-width)
-                          var(--divider-border-style) var(--divider-color);
-                      }
-
-                      .elementor-widget-divider--separator-type-pattern {
-                        --divider-border-style: none;
-                      }
-
-                      .elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line
-                        .elementor-divider-separator,
-                      .elementor-widget-divider--separator-type-pattern:not(
-                          .elementor-widget-divider--view-line
-                        )
-                        .elementor-divider-separator:after,
-                      .elementor-widget-divider--separator-type-pattern:not(
-                          .elementor-widget-divider--view-line
-                        )
-                        .elementor-divider-separator:before,
-                      .elementor-widget-divider--separator-type-pattern:not(
-                          [class*="elementor-widget-divider--view"]
-                        )
-                        .elementor-divider-separator {
-                        width: 100%;
-                        min-height: var(--divider-pattern-height);
-                        -webkit-mask-size: var(--divider-pattern-size) 100%;
-                        mask-size: var(--divider-pattern-size) 100%;
-                        -webkit-mask-repeat: var(--divider-pattern-repeat);
-                        mask-repeat: var(--divider-pattern-repeat);
-                        background-color: var(--divider-color);
-                        -webkit-mask-image: var(--divider-pattern-url);
-                        mask-image: var(--divider-pattern-url);
-                      }
-
-                      .elementor-widget-divider--no-spacing {
-                        --divider-pattern-size: auto;
-                      }
-
-                      .elementor-widget-divider--bg-round {
-                        --divider-pattern-repeat: round;
-                      }
-
-                      .rtl .elementor-widget-divider .elementor-divider__text {
-                        direction: rtl;
-                      }
-
-                      .e-con-inner > .elementor-widget-divider,
-                      .e-con > .elementor-widget-divider {
-                        width: var(--container-widget-width, 100%);
-                        --flex-grow: var(--container-widget-flex-grow);
-                      }
-                    </style>
                     <div class="elementor-divider">
                       <span class="elementor-divider-separator"></span>
                     </div>
@@ -2243,319 +2298,6 @@
                   data-widget_type="social-icons.default"
                 >
                   <div class="elementor-widget-container">
-                    <style>
-                      /*! elementor - v3.18.0 - 20-12-2023 */
-                      .elementor-widget-social-icons.elementor-grid-0
-                        .elementor-widget-container,
-                      .elementor-widget-social-icons.elementor-grid-mobile-0
-                        .elementor-widget-container,
-                      .elementor-widget-social-icons.elementor-grid-tablet-0
-                        .elementor-widget-container {
-                        line-height: 1;
-                        font-size: 0;
-                      }
-
-                      .elementor-widget-social-icons:not(.elementor-grid-0):not(
-                          .elementor-grid-tablet-0
-                        ):not(.elementor-grid-mobile-0)
-                        .elementor-grid {
-                        display: inline-grid;
-                      }
-
-                      .elementor-widget-social-icons .elementor-grid {
-                        grid-column-gap: var(--grid-column-gap, 5px);
-                        grid-row-gap: var(--grid-row-gap, 5px);
-                        grid-template-columns: var(--grid-template-columns);
-                        justify-content: var(--justify-content, center);
-                        justify-items: var(--justify-content, center);
-                      }
-
-                      .elementor-icon.elementor-social-icon {
-                        font-size: var(--icon-size, 25px);
-                        line-height: var(--icon-size, 25px);
-                        width: calc(
-                          var(--icon-size, 25px) + 2 *
-                            var(--icon-padding, 0.5em)
-                        );
-                        height: calc(
-                          var(--icon-size, 25px) + 2 *
-                            var(--icon-padding, 0.5em)
-                        );
-                      }
-
-                      .elementor-social-icon {
-                        --e-social-icon-icon-color: #fff;
-                        display: inline-flex;
-                        background-color: #69727d;
-                        align-items: center;
-                        justify-content: center;
-                        text-align: center;
-                        cursor: pointer;
-                      }
-
-                      .elementor-social-icon i {
-                        color: var(--e-social-icon-icon-color);
-                      }
-
-                      .elementor-social-icon svg {
-                        fill: var(--e-social-icon-icon-color);
-                      }
-
-                      .elementor-social-icon:last-child {
-                        margin: 0;
-                      }
-
-                      .elementor-social-icon:hover {
-                        opacity: 0.9;
-                        color: #fff;
-                      }
-
-                      .elementor-social-icon-android {
-                        background-color: #a4c639;
-                      }
-
-                      .elementor-social-icon-apple {
-                        background-color: #999;
-                      }
-
-                      .elementor-social-icon-behance {
-                        background-color: #1769ff;
-                      }
-
-                      .elementor-social-icon-bitbucket {
-                        background-color: #205081;
-                      }
-
-                      .elementor-social-icon-codepen {
-                        background-color: #000;
-                      }
-
-                      .elementor-social-icon-delicious {
-                        background-color: #39f;
-                      }
-
-                      .elementor-social-icon-deviantart {
-                        background-color: #05cc47;
-                      }
-
-                      .elementor-social-icon-digg {
-                        background-color: #005be2;
-                      }
-
-                      .elementor-social-icon-dribbble {
-                        background-color: #ea4c89;
-                      }
-
-                      .elementor-social-icon-elementor {
-                        background-color: #d30c5c;
-                      }
-
-                      .elementor-social-icon-envelope {
-                        background-color: #ea4335;
-                      }
-
-                      .elementor-social-icon-facebook,
-                      .elementor-social-icon-facebook-f {
-                        background-color: #3b5998;
-                      }
-
-                      .elementor-social-icon-flickr {
-                        background-color: #0063dc;
-                      }
-
-                      .elementor-social-icon-foursquare {
-                        background-color: #2d5be3;
-                      }
-
-                      .elementor-social-icon-free-code-camp,
-                      .elementor-social-icon-freecodecamp {
-                        background-color: #006400;
-                      }
-
-                      .elementor-social-icon-github {
-                        background-color: #333;
-                      }
-
-                      .elementor-social-icon-gitlab {
-                        background-color: #e24329;
-                      }
-
-                      .elementor-social-icon-globe {
-                        background-color: #69727d;
-                      }
-
-                      .elementor-social-icon-google-plus,
-                      .elementor-social-icon-google-plus-g {
-                        background-color: #dd4b39;
-                      }
-
-                      .elementor-social-icon-houzz {
-                        background-color: #7ac142;
-                      }
-
-                      .elementor-social-icon-instagram {
-                        background-color: #262626;
-                      }
-
-                      .elementor-social-icon-jsfiddle {
-                        background-color: #487aa2;
-                      }
-
-                      .elementor-social-icon-link {
-                        background-color: #818a91;
-                      }
-
-                      .elementor-social-icon-linkedin,
-                      .elementor-social-icon-linkedin-in {
-                        background-color: #0077b5;
-                      }
-
-                      .elementor-social-icon-medium {
-                        background-color: #00ab6b;
-                      }
-
-                      .elementor-social-icon-meetup {
-                        background-color: #ec1c40;
-                      }
-
-                      .elementor-social-icon-mixcloud {
-                        background-color: #273a4b;
-                      }
-
-                      .elementor-social-icon-odnoklassniki {
-                        background-color: #f4731c;
-                      }
-
-                      .elementor-social-icon-pinterest {
-                        background-color: #bd081c;
-                      }
-
-                      .elementor-social-icon-product-hunt {
-                        background-color: #da552f;
-                      }
-
-                      .elementor-social-icon-reddit {
-                        background-color: #ff4500;
-                      }
-
-                      .elementor-social-icon-rss {
-                        background-color: #f26522;
-                      }
-
-                      .elementor-social-icon-shopping-cart {
-                        background-color: #4caf50;
-                      }
-
-                      .elementor-social-icon-skype {
-                        background-color: #00aff0;
-                      }
-
-                      .elementor-social-icon-slideshare {
-                        background-color: #0077b5;
-                      }
-
-                      .elementor-social-icon-snapchat {
-                        background-color: #fffc00;
-                      }
-
-                      .elementor-social-icon-soundcloud {
-                        background-color: #f80;
-                      }
-
-                      .elementor-social-icon-spotify {
-                        background-color: #2ebd59;
-                      }
-
-                      .elementor-social-icon-stack-overflow {
-                        background-color: #fe7a15;
-                      }
-
-                      .elementor-social-icon-steam {
-                        background-color: #00adee;
-                      }
-
-                      .elementor-social-icon-stumbleupon {
-                        background-color: #eb4924;
-                      }
-
-                      .elementor-social-icon-telegram {
-                        background-color: #2ca5e0;
-                      }
-
-                      .elementor-social-icon-thumb-tack {
-                        background-color: #1aa1d8;
-                      }
-
-                      .elementor-social-icon-tripadvisor {
-                        background-color: #589442;
-                      }
-
-                      .elementor-social-icon-tumblr {
-                        background-color: #35465c;
-                      }
-
-                      .elementor-social-icon-twitch {
-                        background-color: #6441a5;
-                      }
-
-                      .elementor-social-icon-twitter {
-                        background-color: #1da1f2;
-                      }
-
-                      .elementor-social-icon-viber {
-                        background-color: #665cac;
-                      }
-
-                      .elementor-social-icon-vimeo {
-                        background-color: #1ab7ea;
-                      }
-
-                      .elementor-social-icon-vk {
-                        background-color: #45668e;
-                      }
-
-                      .elementor-social-icon-weibo {
-                        background-color: #dd2430;
-                      }
-
-                      .elementor-social-icon-weixin {
-                        background-color: #31a918;
-                      }
-
-                      .elementor-social-icon-whatsapp {
-                        background-color: #25d366;
-                      }
-
-                      .elementor-social-icon-wordpress {
-                        background-color: #21759b;
-                      }
-
-                      .elementor-social-icon-xing {
-                        background-color: #026466;
-                      }
-
-                      .elementor-social-icon-yelp {
-                        background-color: #af0606;
-                      }
-
-                      .elementor-social-icon-youtube {
-                        background-color: #cd201f;
-                      }
-
-                      .elementor-social-icon-500px {
-                        background-color: #0099e5;
-                      }
-
-                      .elementor-shape-rounded
-                        .elementor-icon.elementor-social-icon {
-                        border-radius: 10%;
-                      }
-
-                      .elementor-shape-circle
-                        .elementor-icon.elementor-social-icon {
-                        border-radius: 50%;
-                      }
-                    </style>
                     <div class="elementor-social-icons-wrapper elementor-grid">
                       <span class="elementor-grid-item">
                         <a
@@ -2696,6 +2438,24 @@
       rel="stylesheet"
       id="jeg-dynamic-style-css"
       href="https://kitpapa.net/rankz/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="elementor-post-145-css"
+      href="https://kitpapa.net/rankz/wp-content/uploads/elementor/css/post-145.css?ver=1704450348"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="metform-ui-css"
+      href="https://kitpapa.net/rankz/wp-content/plugins/metform/public/assets/css/metform-ui.css?ver=3.8.2"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="metform-style-css"
+      href="https://kitpapa.net/rankz/wp-content/plugins/metform/public/assets/css/style.css?ver=3.8.2"
       media="all"
     />
     <link
@@ -2859,8 +2619,8 @@
           hello_footer_logo_type: "logo",
         },
         post: {
-          id: 18,
-          title: "FAQ%20%E2%80%93%20Rankz",
+          id: 22,
+          title: "Contact%20%E2%80%93%20Rankz",
           excerpt: "",
           featuredImage: false,
         },
@@ -2883,14 +2643,53 @@
       src="https://kitpapa.net/rankz/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=2.6.2"
       id="jkit-element-navmenu-js"
     ></script>
-    <script id="jkit-element-pagination-js-extra">
-      var jkit_element_pagination_option = {
-        element_prefix: "jkit_element_ajax_",
+    <script
+      src="https://kitpapa.net/rankz/wp-content/plugins/metform/public/assets/js/htm.js?ver=3.8.2"
+      id="htm-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"
+      id="wp-polyfill-inert-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"
+      id="regenerator-runtime-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"
+      id="wp-polyfill-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0"
+      id="react-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0"
+      id="react-dom-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6"
+      id="wp-escape-html-js"
+    ></script>
+    <script
+      src="https://kitpapa.net/rankz/wp-includes/js/dist/element.min.js?ver=ed1c7604880e8b574b40"
+      id="wp-element-js"
+    ></script>
+    <script id="metform-app-js-extra">
+      var mf = {
+        postType: "page",
+        restURI:
+          "https:\/\/kitpapa.net\/rankz\/wp-json\/metform\/v1\/forms\/views\/",
+        minMsg1: "Minimum length should be ",
+        Msg2: " character long.",
+        maxMsg1: "Maximum length should be ",
+        maxNum: "Maximum number should be ",
+        minNum: "Minimum number should be ",
       };
     </script>
     <script
-      src="https://kitpapa.net/rankz/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination.js?ver=2.6.2"
-      id="jkit-element-pagination-js"
+      src="https://kitpapa.net/rankz/wp-content/plugins/metform/public/assets/js/app.js?ver=3.8.2"
+      id="metform-app-js"
     ></script>
     <script
       src="https://kitpapa.net/rankz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.0.4"
@@ -2900,5 +2699,25 @@
       src="https://kitpapa.net/rankz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.4"
       id="elementskit-elementor-js"
     ></script>
+    
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var currentPageUrl = window.location.href;
+
+        // Get all menu items
+        var menuItems = document.querySelectorAll("#menu-main-menu > li");
+
+        // Loop through each menu item
+        menuItems.forEach(function(item) {
+            var link = item.querySelector("a");
+
+            // Check if the link href matches the current page URL
+            if (link.href === currentPageUrl) {
+                // Add the "current-menu-item" class to the parent <li> element
+                item.classList.add("current-menu-item");
+            }
+        });
+    });
+  </script>
   </body>
 </html>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Blog &#8211;Rankz</title>
+    <title>FAQ &#8211;Rankz</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -714,8 +714,8 @@
     />
     <link
       rel="stylesheet"
-      id="elementor-post-20-css"
-      href="https://kitpapa.net/rankz/wp-content/uploads/elementor/css/post-20.css?ver=1704450414"
+      id="elementor-post-18-css"
+      href="https://kitpapa.net/rankz/wp-content/uploads/elementor/css/post-18.css?ver=1704447053"
       media="all"
     />
     <link
@@ -789,7 +789,7 @@
     <link
       rel="alternate"
       type="application/json"
-      href="https://kitpapa.net/rankz/wp-json/wp/v2/pages/20"
+      href="https://kitpapa.net/rankz/wp-json/wp/v2/pages/18"
     />
     <link
       rel="EditURI"
@@ -798,17 +798,17 @@
       href="https://kitpapa.net/rankz/xmlrpc.php?rsd"
     />
     <meta name="generator" content="WordPress 6.4.2" />
-    <link rel="canonical" href="https://kitpapa.net/rankz/blog/" />
-    <link rel="shortlink" href="https://kitpapa.net/rankz/?p=20" />
+    <link rel="canonical" href="https://kitpapa.net/rankz/faq/" />
+    <link rel="shortlink" href="https://kitpapa.net/rankz/?p=18" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Fblog%2F"
+      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Ffaq%2F"
     />
     <link
       rel="alternate"
       type="text/xml+oembed"
-      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Fblog%2F&#038;format=xml"
+      href="https://kitpapa.net/rankz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkitpapa.net%2Frankz%2Ffaq%2F&#038;format=xml"
     />
     <meta
       name="generator"
@@ -816,226 +816,25 @@
     />
   </head>
   <body
-    class="page-template page-template-elementor_header_footer page page-id-20 jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-34 elementor-page elementor-page-20"
+    class="page-template page-template-elementor_header_footer page page-id-18 jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-34 elementor-page elementor-page-18"
   >
-    <div
-      class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support"
-    >
-      <div
-        data-elementor-type="wp-post"
-        data-elementor-id="128"
-        class="elementor elementor-128"
-      >
-        <div
-          class="elementor-element elementor-element-5a4f4e18 e-flex e-con-boxed e-con e-parent"
-          data-id="5a4f4e18"
-          data-element_type="container"
-          data-settings='{"background_background":"classic","content_width":"boxed"}'
-          data-core-v316-plus="true"
-        >
-          <div class="e-con-inner">
-            <div
-              class="elementor-element elementor-element-37e4449d elementor-widget elementor-widget-image"
-              data-id="37e4449d"
-              data-element_type="widget"
-              data-widget_type="image.default"
-            >
-              <div class="elementor-widget-container">
-                <style>
-                  /*! elementor - v3.18.0 - 20-12-2023 */
-                  .elementor-widget-image {
-                    text-align: center;
-                  }
-
-                  .elementor-widget-image a {
-                    display: inline-block;
-                  }
-
-                  .elementor-widget-image a img[src$=".svg"] {
-                    width: 48px;
-                  }
-
-                  .elementor-widget-image img {
-                    vertical-align: middle;
-                    display: inline-block;
-                  }
-                </style>
-                <a href="#">
-                  <img
-                    fetchpriority="high"
-                    width="656"
-                    height="169"
-                    src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png"
-                    class="attachment-full size-full wp-image-187"
-                    alt=""
-                    decoding="async"
-                    srcset="
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png        656w,
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1-300x77.png 300w
-                    "
-                    sizes="(max-width: 656px) 100vw, 656px"
-                  />
-                </a>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-5b15e77a elementor-widget elementor-widget-jkit_nav_menu"
-              data-id="5b15e77a"
-              data-element_type="widget"
-              data-widget_type="jkit_nav_menu.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_20__65c1ceaddd503"
-                  data-item-indicator='&lt;i aria-hidden="true" class="jki jki-chevron-down-light"&gt;&lt;/i&gt;'
-                >
-                  <button class="jkit-hamburger-menu">
-                    <i aria-hidden="true" class="jki jki-menu-11-light"></i>
-                  </button>
-                  <div class="jkit-menu-wrapper">
-                    <div class="jkit-menu-container">
-                      <ul
-                        id="menu-main-menu"
-                        class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"
-                      >
-                        <li
-                          id="menu-item-29"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29"
-                        >
-                          <a href="https://kitpapa.net/rankz/">Home</a>
-                        </li>
-                        <li
-                          id="menu-item-25"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"
-                        >
-                          <a href="https://kitpapa.net/rankz/about/">About</a>
-                        </li>
-                        <li
-                          id="menu-item-32"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32"
-                        >
-                          <a href="#">Pages</a>
-                          <ul class="sub-menu">
-                            <li
-                              id="menu-item-31"
-                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"
-                            >
-                              <a href="https://kitpapa.net/rankz/services/"
-                                >Services</a
-                              >
-                            </li>
-                            <li
-                              id="menu-item-30"
-                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"
-                            >
-                              <a href="https://kitpapa.net/rankz/pricing/"
-                                >Pricing</a
-                              >
-                            </li>
-                            <li
-                              id="menu-item-28"
-                              class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"
-                            >
-                              <a href="https://kitpapa.net/rankz/faq/">FAQ</a>
-                            </li>
-                          </ul>
-                        </li>
-                        <li
-                          id="menu-item-26"
-                          class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-26"
-                        >
-                          <a
-                            href="https://kitpapa.net/rankz/blog/"
-                            aria-current="page"
-                            >Blog</a
-                          >
-                        </li>
-                        <li
-                          id="menu-item-27"
-                          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"
-                        >
-                          <a href="https://kitpapa.net/rankz/contact/"
-                            >Contact</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="jkit-nav-identity-panel">
-                      <div class="jkit-nav-site-title">
-                        <a
-                          href="https://kitpapa.net/rankz"
-                          class="jkit-nav-logo"
-                        >
-                          <img
-                            src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/logo2-1.png"
-                          />
-                        </a>
-                      </div>
-                      <button class="jkit-close-menu">
-                        <svg
-                          aria-hidden="true"
-                          class="e-font-icon-svg e-fas-times"
-                          viewBox="0 0 352 512"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <path
-                            d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
-                          ></path>
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                  <div class="jkit-overlay"></div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-5694ec9e elementor-widget__width-auto e-transform elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-jkit_button"
-              data-id="5694ec9e"
-              data-element_type="widget"
-              data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":10,"sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}'
-              data-widget_type="jkit_button.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-button icon-position-before jeg_module_20_1_65c1ceade1dd8"
-                >
-                  <a href="#" class="jkit-button-wrapper">
-                    <svg
-                      aria-hidden="true"
-                      class="e-font-icon-svg e-fas-phone-alt"
-                      viewBox="0 0 512 512"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"
-                      ></path>
-                    </svg>
-                    Contact Us
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+<?php include './header.php' ?>
     <div
       data-elementor-type="wp-page"
-      data-elementor-id="20"
-      class="elementor elementor-20"
+      data-elementor-id="18"
+      class="elementor elementor-18"
     >
       <div
-        class="elementor-element elementor-element-7ad5f078 e-flex e-con-boxed e-con e-parent"
-        data-id="7ad5f078"
+        class="elementor-element elementor-element-21d1b180 e-flex e-con-boxed e-con e-parent"
+        data-id="21d1b180"
         data-element_type="container"
         data-settings='{"background_background":"gradient","content_width":"boxed"}'
         data-core-v316-plus="true"
       >
         <div class="e-con-inner">
           <div
-            class="elementor-element elementor-element-deb68ba elementor-widget elementor-widget-heading"
-            data-id="deb68ba"
+            class="elementor-element elementor-element-41dcbc61 elementor-widget elementor-widget-heading"
+            data-id="41dcbc61"
             data-element_type="widget"
             data-widget_type="heading.default"
           >
@@ -1082,13 +881,13 @@
                 }
               </style>
               <h1 class="elementor-heading-title elementor-size-default">
-                Explore Our Blog and Articles
+                Get Your Questions Answered Here
               </h1>
             </div>
           </div>
           <div
-            class="elementor-element elementor-element-71a57561 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
-            data-id="71a57561"
+            class="elementor-element elementor-element-7a7c12e0 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
+            data-id="7a7c12e0"
             data-element_type="widget"
             data-settings='{"_animation":"fadeIn","_animation_delay":400}'
             data-widget_type="text-editor.default"
@@ -1143,29 +942,342 @@
         </div>
       </div>
       <div
-        class="elementor-element elementor-element-6c53687d e-flex e-con-boxed e-con e-parent"
-        data-id="6c53687d"
+        class="elementor-element elementor-element-2ec2bc30 e-flex e-con-boxed e-con e-parent"
+        data-id="2ec2bc30"
         data-element_type="container"
         data-settings='{"content_width":"boxed"}'
         data-core-v316-plus="true"
       >
         <div class="e-con-inner">
           <div
-            class="elementor-element elementor-element-a6ecdc1 e-con-full e-flex elementor-invisible e-con e-child"
-            data-id="a6ecdc1"
+            class="elementor-element elementor-element-273879f5 e-con-full e-flex e-con e-child"
+            data-id="273879f5"
+            data-element_type="container"
+            data-settings='{"content_width":"full"}'
+          >
+            <div
+              class="elementor-element elementor-element-4c2c3161 e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="4c2c3161"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":600}'
+            >
+              <div
+                class="elementor-element elementor-element-544ef115 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="544ef115"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_2_65c1ce975d604"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        Can I Upgrade my Subscription?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-3f55296e e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="3f55296e"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":800}'
+            >
+              <div
+                class="elementor-element elementor-element-33e64f02 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="33e64f02"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_3_65c1ce975ecfe"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        First-Page Google Guarantee?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-1903ad33 e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="1903ad33"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1000}'
+            >
+              <div
+                class="elementor-element elementor-element-62953908 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="62953908"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_4_65c1ce9760d5a"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        Customized Marketing Strategies?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="elementor-element elementor-element-2dd40421 e-con-full e-flex e-con e-child"
+            data-id="2dd40421"
+            data-element_type="container"
+            data-settings='{"content_width":"full"}'
+          >
+            <div
+              class="elementor-element elementor-element-53e72ae3 e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="53e72ae3"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1200}'
+            >
+              <div
+                class="elementor-element elementor-element-442a2f9b elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="442a2f9b"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_5_65c1ce9762da0"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        Do You Offer Local SEO Services?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-506f2992 e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="506f2992"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1400}'
+            >
+              <div
+                class="elementor-element elementor-element-42789395 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="42789395"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_6_65c1ce97643f9"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        Is Blogging Essential for SEO Success?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-9a57ad0 e-con-full e-flex elementor-invisible e-con e-child"
+              data-id="9a57ad0"
+              data-element_type="container"
+              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1600}'
+            >
+              <div
+                class="elementor-element elementor-element-1f80f109 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
+                data-id="1f80f109"
+                data-element_type="widget"
+                data-widget_type="jkit_heading.default"
+              >
+                <div class="elementor-widget-container">
+                  <div
+                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_7_65c1ce9765ab7"
+                  >
+                    <div class="heading-section-title display-inline-block">
+                      <h6 class="heading-title">
+                        What Is the ROI of Digital Marketing?
+                      </h6>
+                    </div>
+                    <div class="heading-section-description">
+                      Voluptatem accusantium doloremque laudantium, totam rem
+                      aperiam, eaque ipsa quae ab illo inventore veritatis et
+                      quasi.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="elementor-element elementor-element-672c4dba e-flex e-con-boxed e-con e-parent"
+        data-id="672c4dba"
+        data-element_type="container"
+        data-settings='{"content_width":"boxed"}'
+        data-core-v316-plus="true"
+      >
+        <div class="e-con-inner">
+          <div
+            class="elementor-element elementor-element-435963d3 e-con-full e-flex e-con e-child"
+            data-id="435963d3"
+            data-element_type="container"
+            data-settings='{"content_width":"full","background_background":"classic"}'
+          >
+            <div
+              class="elementor-element elementor-element-72c52798 elementor-invisible elementor-widget elementor-widget-heading"
+              data-id="72c52798"
+              data-element_type="widget"
+              data-settings='{"_animation":"fadeIn","_animation_delay":200}'
+              data-widget_type="heading.default"
+            >
+              <div class="elementor-widget-container">
+                <h2 class="elementor-heading-title elementor-size-default">
+                  Have Any Questions ? Please Contact Us
+                </h2>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-4095fa14 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
+              data-id="4095fa14"
+              data-element_type="widget"
+              data-settings='{"_animation":"fadeIn","_animation_delay":400}'
+              data-widget_type="text-editor.default"
+            >
+              <div class="elementor-widget-container">
+                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
+                exercitation.
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-dad5cf8 elementor-widget__width-auto e-transform elementor-widget elementor-widget-jkit_button"
+              data-id="dad5cf8"
+              data-element_type="widget"
+              data-settings='{"_transform_translateX_effect_hover":{"unit":"px","size":10,"sizes":[]},"_transform_translateX_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_hover_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_hover_mobile":{"unit":"px","size":"","sizes":[]}}'
+              data-widget_type="jkit_button.default"
+            >
+              <div class="elementor-widget-container">
+                <div
+                  class="jeg-elementor-kit jkit-button icon-position-after jeg_module_18_8_65c1ce9768f66"
+                >
+                  <a href="#" class="jkit-button-wrapper">
+                    Contact Us<i
+                      aria-hidden="true"
+                      class="jki jki-right-arrow-light"
+                    ></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="elementor-element elementor-element-37b87b2c e-flex e-con-boxed e-con e-parent"
+        data-id="37b87b2c"
+        data-element_type="container"
+        data-settings='{"content_width":"boxed"}'
+        data-core-v316-plus="true"
+      >
+        <div class="e-con-inner">
+          <div
+            class="elementor-element elementor-element-451388cb e-con-full e-flex e-con e-child"
+            data-id="451388cb"
+            data-element_type="container"
+            data-settings='{"content_width":"full"}'
+          >
+            <div
+              class="elementor-element elementor-element-7a57e052 elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-heading"
+              data-id="7a57e052"
+              data-element_type="widget"
+              data-settings='{"_animation":"fadeIn"}'
+              data-widget_type="heading.default"
+            >
+              <div class="elementor-widget-container">
+                <h5 class="elementor-heading-title elementor-size-default">
+                  Our Blog
+                </h5>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-2f6a458f elementor-invisible elementor-widget elementor-widget-heading"
+              data-id="2f6a458f"
+              data-element_type="widget"
+              data-settings='{"_animation":"fadeIn","_animation_delay":200}'
+              data-widget_type="heading.default"
+            >
+              <div class="elementor-widget-container">
+                <h2 class="elementor-heading-title elementor-size-default">
+                  Explore Our Blog and Articles
+                </h2>
+              </div>
+            </div>
+            <div
+              class="elementor-element elementor-element-5b00daa8 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
+              data-id="5b00daa8"
+              data-element_type="widget"
+              data-settings='{"_animation":"fadeIn","_animation_delay":400}'
+              data-widget_type="text-editor.default"
+            >
+              <div class="elementor-widget-container">
+                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
+                exercitation.
+              </div>
+            </div>
+          </div>
+          <div
+            class="elementor-element elementor-element-247350e0 e-con-full e-flex elementor-invisible e-con e-child"
+            data-id="247350e0"
             data-element_type="container"
             data-settings='{"content_width":"full","animation":"fadeIn","animation_delay":600}'
           >
             <div
-              class="elementor-element elementor-element-74c9d2c9 elementor-widget elementor-widget-jkit_post_block"
-              data-id="74c9d2c9"
+              class="elementor-element elementor-element-26ca25bf elementor-widget elementor-widget-jkit_post_block"
+              data-id="26ca25bf"
               data-element_type="widget"
               data-widget_type="jkit_post_block.default"
             >
               <div class="elementor-widget-container">
                 <div
-                  class="jeg-elementor-kit jkit-postblock postblock-type-2 jkit-pagination-disable post-element jeg_module_20_2_65c1ceaded3fe"
-                  data-id="jeg_module_20_2_65c1ceaded3fe"
+                  class="jeg-elementor-kit jkit-postblock postblock-type-2 jkit-pagination-disable post-element jeg_module_18_9_65c1ce9773e69"
+                  data-id="jeg_module_18_9_65c1ce9773e69"
                   data-settings='{"post_type":"post","number_post":{"unit":"px","size":1,"sizes":[]},"post_offset":0,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","pagination_mode":"disable","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-2","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":19,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
                 >
                   <div class="jkit-block-container">
@@ -1231,25 +1343,78 @@
             </div>
           </div>
           <div
-            class="elementor-element elementor-element-5523186f e-con-full e-flex elementor-invisible e-con e-child"
-            data-id="5523186f"
+            class="elementor-element elementor-element-7276f7ac e-con-full e-flex elementor-invisible e-con e-child"
+            data-id="7276f7ac"
             data-element_type="container"
             data-settings='{"content_width":"full","animation":"fadeIn","animation_delay":800}'
           >
             <div
-              class="elementor-element elementor-element-66d111a7 elementor-widget elementor-widget-jkit_post_block"
-              data-id="66d111a7"
+              class="elementor-element elementor-element-1d427500 elementor-widget elementor-widget-jkit_post_block"
+              data-id="1d427500"
               data-element_type="widget"
               data-widget_type="jkit_post_block.default"
             >
               <div class="elementor-widget-container">
                 <div
-                  class="jeg-elementor-kit jkit-postblock postblock-type-1 jkit-pagination-disable post-element jeg_module_20_3_65c1ceadf0d02"
-                  data-id="jeg_module_20_3_65c1ceadf0d02"
-                  data-settings='{"post_type":"post","number_post":{"unit":"px","size":2,"sizes":[]},"post_offset":1,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"oldest","pagination_mode":"disable","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-1","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":8,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
+                  class="jeg-elementor-kit jkit-postblock postblock-type-1 jkit-pagination-disable post-element jeg_module_18_10_65c1ce9779df6"
+                  data-id="jeg_module_18_10_65c1ce9779df6"
+                  data-settings='{"post_type":"post","number_post":{"unit":"px","size":2,"sizes":[]},"post_offset":0,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"oldest","pagination_mode":"disable","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-1","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":8,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
                 >
                   <div class="jkit-block-container">
                     <div class="jkit-posts jkit-ajax-flag">
+                      <article
+                        class="jkit-post post-150 post type-post status-publish format-standard has-post-thumbnail hentry category-blog"
+                      >
+                        <div class="jkit-thumb">
+                          <a
+                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
+                          >
+                            <div class="thumbnail-container">
+                              <img
+                                decoding="async"
+                                width="2000"
+                                height="1333"
+                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc.jpg"
+                                class="attachment-full size-full wp-post-image"
+                                alt=""
+                                srcset="
+                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc.jpg           2000w,
+                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-300x200.jpg    300w,
+                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-1024x682.jpg  1024w,
+                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-768x512.jpg    768w,
+                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/staff-employee-sitting-in-work-place-2023-11-27-05-17-28-utc-1536x1024.jpg 1536w
+                                "
+                                sizes="(max-width: 2000px) 100vw, 2000px"
+                              />
+                            </div>
+                          </a>
+                        </div>
+                        <div class="jkit-postblock-content">
+                          <div class="jkit-post-category">
+                            <span>
+                              <a
+                                href="https://kitpapa.net/rankz/category/blog/"
+                                class="category-blog"
+                                >Blog</a
+                              >
+                            </span>
+                          </div>
+                          <div class="jkit-post-meta"></div>
+                          <h3 class="jkit-post-title">
+                            <a
+                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
+                              >Social Media Marketing Strategies for Small
+                              Businesses</a
+                            >
+                          </h3>
+                          <div class="jkit-post-excerpt">
+                            <p>
+                              Marketing PPC vs. SEO: Which Digital Advertising
+                              Strategy...
+                            </p>
+                          </div>
+                        </div>
+                      </article>
                       <article
                         class="jkit-post post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-insight"
                       >
@@ -1259,6 +1424,7 @@
                           >
                             <div class="thumbnail-container">
                               <img
+                                loading="lazy"
                                 decoding="async"
                                 width="2000"
                                 height="1333"
@@ -1303,269 +1469,6 @@
                           </div>
                         </div>
                       </article>
-                      <article
-                        class="jkit-post post-152 post type-post status-publish format-standard has-post-thumbnail hentry category-insight"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-3/"
-                          >
-                            <div class="thumbnail-container">
-                              <img
-                                loading="lazy"
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-people-in-the-modern-office-2023-11-27-05-11-42-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/insight/"
-                                class="category-insight"
-                                >Insight</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-3/"
-                              >PPC vs. SEO: Which Digital Advertising Strategy
-                              Is Right for You?</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="elementor-element elementor-element-50c6fb99 e-con-full e-flex elementor-invisible e-con e-child"
-            data-id="50c6fb99"
-            data-element_type="container"
-            data-settings='{"content_width":"full","animation":"fadeIn","animation_delay":800}'
-          >
-            <div
-              class="elementor-element elementor-element-43216176 elementor-widget-tablet__width-inherit elementor-widget elementor-widget-jkit_post_block"
-              data-id="43216176"
-              data-element_type="widget"
-              data-widget_type="jkit_post_block.default"
-            >
-              <div class="elementor-widget-container">
-                <div
-                  class="jeg-elementor-kit jkit-postblock postblock-type-2 jkit-pagination-nextprev post-element jeg_module_20_4_65c1ceae00688"
-                  data-id="jeg_module_20_4_65c1ceae00688"
-                  data-settings='{"post_type":"post","number_post":{"unit":"px","size":3,"sizes":[]},"post_offset":3,"unique_content":"disable","include_post":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"oldest","pagination_mode":"nextprev","pagination_loadmore_text":"Load More","pagination_loading_text":"Loading...","pagination_number_post":{"unit":"px","size":3,"sizes":[]},"pagination_scroll_limit":0,"pagination_icon":{"value":"","library":""},"pagination_icon_position":"before","st_category_position":"center","sg_content_postblock_type":"type-2","sg_content_element_order":"meta,title,excerpt","sg_content_breakpoint":"tablet","sg_content_title_html_tag":"h3","sg_content_category_enable":"yes","sg_content_excerpt_enable":"yes","sg_content_excerpt_length":{"unit":"px","size":8,"sizes":[]},"sg_content_excerpt_more":"...","sg_content_readmore_enable":"","sg_content_readmore_icon":{"value":"fas fa-arrow-right","library":"fa-solid"},"sg_content_readmore_icon_position":"after","sg_content_readmore_text":"Read More","sg_content_comment_enable":"","sg_content_comment_icon":{"value":"fas fa-comment","library":"fa-solid"},"sg_content_comment_icon_position":"before","sg_content_meta_enable":"yes","sg_content_meta_author_enable":"","sg_content_meta_author_by_text":"by","sg_content_meta_author_icon":{"value":"fas fa-user","library":"fa-solid"},"sg_content_meta_author_icon_position":"before","sg_content_meta_date_enable":"","sg_content_meta_date_type":"published","sg_content_meta_date_format":"default","sg_content_meta_date_format_custom":"F j, Y","sg_content_meta_date_icon":{"value":"fas fa-clock","library":"fa-solid"},"sg_content_meta_date_icon_position":"before","sg_content_image_size_imagesize_size":"full","paged":1,"class":"jkit_post_block"}'
-                >
-                  <div class="jkit-block-container">
-                    <div class="jkit-posts jkit-ajax-flag">
-                      <article
-                        class="jkit-post post-153 post type-post status-publish format-standard has-post-thumbnail hentry category-blog"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-4/"
-                          >
-                            <div class="thumbnail-container">
-                              <img
-                                loading="lazy"
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/happy-beautiful-bussines-woman-in-conference-room-2023-11-27-05-00-43-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/blog/"
-                                class="category-blog"
-                                >Blog</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-4/"
-                              >Navigating Google’s Algorithm Updates: A Survival
-                              Guide</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
-                      <article
-                        class="jkit-post post-154 post type-post status-publish format-standard has-post-thumbnail hentry category-insight"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-5/"
-                          >
-                            <div class="thumbnail-container">
-                              <img
-                                loading="lazy"
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/team-of-employees-in-the-office-analyze-a-pie-char-2023-11-27-04-57-01-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/insight/"
-                                class="category-insight"
-                                >Insight</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-5/"
-                              >Social Media Marketing Strategies for Small
-                              Businesses</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
-                      <article
-                        class="jkit-post post-155 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing"
-                      >
-                        <div class="jkit-thumb">
-                          <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-6/"
-                          >
-                            <div class="thumbnail-container">
-                              <img
-                                loading="lazy"
-                                decoding="async"
-                                width="2000"
-                                height="1333"
-                                src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc.jpg"
-                                class="attachment-full size-full wp-post-image"
-                                alt=""
-                                srcset="
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc.jpg           2000w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc-300x200.jpg    300w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc-1024x682.jpg  1024w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc-768x512.jpg    768w,
-                                  https://kitpapa.net/rankz/wp-content/uploads/2024/01/handsome-businessman-is-looking-at-camera-while-hi-2023-11-27-05-17-03-utc-1536x1024.jpg 1536w
-                                "
-                                sizes="(max-width: 2000px) 100vw, 2000px"
-                              />
-                            </div>
-                          </a>
-                        </div>
-                        <div class="jkit-postblock-content">
-                          <div class="jkit-post-category">
-                            <span>
-                              <a
-                                href="https://kitpapa.net/rankz/category/marketing/"
-                                class="category-marketing"
-                                >Marketing</a
-                              >
-                            </span>
-                          </div>
-                          <div class="jkit-post-meta"></div>
-                          <h3 class="jkit-post-title">
-                            <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-6/"
-                              >The Ultimate Guide to SEO: Boosting Your
-                              Website’s Visibility</a
-                            >
-                          </h3>
-                          <div class="jkit-post-excerpt">
-                            <p>
-                              Marketing PPC vs. SEO: Which Digital Advertising
-                              Strategy...
-                            </p>
-                          </div>
-                        </div>
-                      </article>
-                    </div>
-                    <div class="jkit-preloader-overlay">
-                      <div class="jkit-preloader-type jkit-preloader-dot">
-                        <div class="jkit-preloader">
-                          <span></span>
-                          <span></span>
-                          <span></span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="jkit-block-pagination jkit-align">
-                    <div
-                      class="jkit-pagination-button jkit-block-nextprev jkit-nextprev-normal"
-                    >
-                      <a href="#" class="prev disabled" title="Previous">
-                        <i aria-hidden="true" class="jki jki-left-arrow-7"></i>
-                      </a>
-                      <a href="#" class="next" title="Next">
-                        <i aria-hidden="true" class="jki jki-right-arrow-7"></i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -1686,7 +1589,7 @@
                 >
                   <div class="elementor-widget-container">
                     <div
-                      class="jeg-elementor-kit jkit-button icon-position-after jeg_module_20_5_65c1ceae07c96"
+                      class="jeg-elementor-kit jkit-button icon-position-after jeg_module_18_11_65c1ce97837df"
                     >
                       <a href="#" class="jkit-button-wrapper">
                         Contact Us<i
@@ -2755,8 +2658,8 @@
           hello_footer_logo_type: "logo",
         },
         post: {
-          id: 20,
-          title: "Blog%20%E2%80%93%20Rankz",
+          id: 18,
+          title: "FAQ%20%E2%80%93%20Rankz",
           excerpt: "",
           featuredImage: false,
         },
@@ -2796,5 +2699,25 @@
       src="https://kitpapa.net/rankz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.4"
       id="elementskit-elementor-js"
     ></script>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var currentPageUrl = window.location.href;
+
+        // Get all menu items
+        var menuItems = document.querySelectorAll("#menu-main-menu > li");
+
+        // Loop through each menu item
+        menuItems.forEach(function(item) {
+            var link = item.querySelector("a");
+
+            // Check if the link href matches the current page URL
+            if (link.href === currentPageUrl) {
+                // Add the "current-menu-item" class to the parent <li> element
+                item.classList.add("current-menu-item");
+            }
+        });
+    });
+  </script>
   </body>
 </html>
