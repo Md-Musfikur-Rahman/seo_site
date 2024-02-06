@@ -1,3 +1,16 @@
+<div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+      <div
+        data-elementor-type="wp-post"
+        data-elementor-id="129"
+        class="elementor elementor-129"
+      >
+        <div
+          class="elementor-element elementor-element-4d8c71a6 e-flex e-con-boxed e-con e-parent"
+          data-id="4d8c71a6"
+          data-element_type="container"
+          data-settings='{"background_background":"classic","content_width":"boxed"}'
+          data-core-v316-plus="true"
+        >
 <footer class="e-con-inner">
   <div
     class="elementor-element elementor-element-44a5bc9b e-con-full e-flex e-con e-child"
@@ -61,9 +74,7 @@
         data-widget_type="text-editor.default"
       >
         <div class="elementor-widget-container">
-          Consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore
-          et dolore magna aliqua. Utenim minim veniam quis nostrud exercitation.
-        </div>
+        Embark on the Path to Success with Our Complete SEO Solutions. Contact Our Seasoned Team to Kickstart Your Journey Towards Digital Excellence!        </div>
       </div>
       <div
         class="elementor-element elementor-element-6882ae73 elementor-widget__width-initial elementor-absolute e-transform elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image"
@@ -95,7 +106,7 @@
           <div
             class="jeg-elementor-kit jkit-button icon-position-after jeg_module_10_32_65c1cb003a307"
           >
-            <a href="#" class="jkit-button-wrapper">
+            <a href="./contact.php" class="jkit-button-wrapper">
               Contact Us<i
                 aria-hidden="true"
                 class="jki jki-right-arrow-light"
@@ -139,22 +150,22 @@
         <div class="elementor-widget-container">
           <ul class="elementor-icon-list-items">
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./about.php">
                 <span class="elementor-icon-list-text">About</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./services.php">
                 <span class="elementor-icon-list-text">Services</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./pricing.php">
                 <span class="elementor-icon-list-text">Pricing</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./faq.php">
                 <span class="elementor-icon-list-text">FAQ</span>
               </a>
             </li>
@@ -189,22 +200,22 @@
         <div class="elementor-widget-container">
           <ul class="elementor-icon-list-items">
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./services.php">
                 <span class="elementor-icon-list-text">SEO Services</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./services.php">
                 <span class="elementor-icon-list-text">PPC Advertising</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./services.php">
                 <span class="elementor-icon-list-text">Content Marketing</span>
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./services.php">
                 <span class="elementor-icon-list-text"
                   >Social Media Marketing</span
                 >
@@ -253,7 +264,7 @@
               </a>
             </li>
             <li class="elementor-icon-list-item">
-              <a href="#">
+              <a href="./contact.php">
                 <span class="elementor-icon-list-text">Contact</span>
               </a>
             </li>
@@ -294,7 +305,7 @@
           <ul class="elementor-icon-list-items">
             <li class="elementor-icon-list-item">
               <span class="elementor-icon-list-icon">
-                <svg
+                <!-- <svg
                   aria-hidden="true"
                   class="e-font-icon-svg e-fas-phone-alt"
                   viewBox="0 0 512 512"
@@ -303,7 +314,7 @@
                   <path
                     d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"
                   ></path>
-                </svg>
+                </svg> -->
               </span>
               <span class="elementor-icon-list-text">Phone Number :</span>
             </li>
@@ -318,7 +329,7 @@
       >
         <div class="elementor-widget-container">
           <h4 class="elementor-heading-title elementor-size-default">
-            (+88) 885 148 11
+            (+880) 1950-375585
           </h4>
         </div>
       </div>
@@ -332,7 +343,7 @@
           <ul class="elementor-icon-list-items">
             <li class="elementor-icon-list-item">
               <span class="elementor-icon-list-icon">
-                <svg
+                <!-- <svg
                   aria-hidden="true"
                   class="e-font-icon-svg e-fas-envelope"
                   viewBox="0 0 512 512"
@@ -341,7 +352,7 @@
                   <path
                     d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"
                   ></path>
-                </svg>
+                </svg> -->
               </span>
               <span class="elementor-icon-list-text">Email Us :</span>
             </li>
@@ -356,7 +367,7 @@
       >
         <div class="elementor-widget-container">
           <h4 class="elementor-heading-title elementor-size-default">
-            support@domain.com
+            info@devsite-studio.com
           </h4>
         </div>
       </div>
@@ -846,6 +857,7 @@
               <a
                 class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-repeater-item-6352c3c"
                 target="_blank"
+                href="http://facebook.com/devsitestudio"
               >
                 <span class="elementor-screen-only">Jki-facebook-light</span>
                 <i class="jki jki-facebook-light"></i>
@@ -855,6 +867,7 @@
               <a
                 class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-811c3ad"
                 target="_blank"
+                href="https://www.instagram.com/devsitestudio"
               >
                 <span class="elementor-screen-only">Instagram</span>
                 <svg
@@ -872,6 +885,7 @@
               <a
                 class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-11cfdd8"
                 target="_blank"
+                href="http://twitter.com/devsitestudio"
               >
                 <span class="elementor-screen-only">Twitter</span>
                 <svg
@@ -889,6 +903,7 @@
               <a
                 class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d07947a"
                 target="_blank"
+                href="https://www.youtube.com/@devsitestudio"
               >
                 <span class="elementor-screen-only">Youtube</span>
                 <svg
@@ -946,7 +961,7 @@
         data-widget_type="text-editor.default"
       >
         <div class="elementor-widget-container">
-          SEO &#038;Digital Marketing Agency
+          SEO &#038; Digital Marketing Agency
         </div>
       </div>
     </div>
@@ -963,7 +978,7 @@
         data-widget_type="text-editor.default"
       >
         <div class="elementor-widget-container">
-          <p>Copyright © 2023 devsitestudio.com All rights reserved.</p>
+          <p>Copyright © 2023 devsite-studio.com All rights reserved.</p>
         </div>
       </div>
     </div>

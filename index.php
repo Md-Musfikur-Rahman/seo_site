@@ -3704,21 +3704,7 @@
         </div>
       </div>
     </div>
-    <div
-      class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support"
-    >
-      <div
-        data-elementor-type="wp-post"
-        data-elementor-id="129"
-        class="elementor elementor-129"
-      >
-        <div
-          class="elementor-element elementor-element-4d8c71a6 e-flex e-con-boxed e-con e-parent"
-          data-id="4d8c71a6"
-          data-element_type="container"
-          data-settings='{"background_background":"classic","content_width":"boxed"}'
-          data-core-v316-plus="true"
-        >
+  
         <?php include './footer.php' ?>
       </div>
     </div>
