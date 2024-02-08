@@ -934,9 +934,9 @@
                   display: inline-block;
                 }
               </style>
-              Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+              <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
               labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-              exercitation.
+              exercitation. -->
             </div>
           </div>
         </div>
@@ -994,8 +994,7 @@
                           <div class="icon-box icon-box-body">
                             <h3 class="title">SEO Services</h3>
                             <p class="icon-box-description">
-                              Consectetur adipiscing elit sed do eiusmod tempor
-                              incididunt ut labore.
+                            Elevate your online visibility with our comprehensive SEO services.
                             </p>
                           </div>
                         </div>
@@ -1035,8 +1034,7 @@
                           <div class="icon-box icon-box-body">
                             <h3 class="title">PPC Advertising</h3>
                             <p class="icon-box-description">
-                              Consectetur adipiscing elit sed do eiusmod tempor
-                              incididunt ut labore.
+                            Maximize your reach and ROI with targeted PPC advertising solutions.
                             </p>
                           </div>
                         </div>
@@ -1076,8 +1074,7 @@
                           <div class="icon-box icon-box-body">
                             <h3 class="title">Content Marketing</h3>
                             <p class="icon-box-description">
-                              Consectetur adipiscing elit sed do eiusmod tempor
-                              incididunt ut labore.
+                            Engage your audience and drive results with strategic content marketing.
                             </p>
                           </div>
                         </div>
@@ -1126,10 +1123,7 @@
                           <div class="icon-box icon-box-body">
                             <h3 class="title">Social Media Marketing</h3>
                             <p class="icon-box-description">
-                              Voluptatem accusantium doloremque laudantium totam
-                              rem aperiam, eaque ipsa quae ab illo inventore
-                              veritatis et quasi. Consectetur adipiscing elit
-                              sed do eiusmod tempor.
+                            Boost your brand presence and engagement with effective social media marketing.
                             </p>
                           </div>
                         </div>
@@ -1169,10 +1163,7 @@
                           <div class="icon-box icon-box-body">
                             <h3 class="title">Email Marketing</h3>
                             <p class="icon-box-description">
-                              Voluptatem accusantium doloremque laudantium totam
-                              rem aperiam, eaque ipsa quae ab illo inventore
-                              veritatis et quasi. Consectetur adipiscing elit
-                              sed do eiusmod tempor.
+                            Connect with your audience and drive conversions through impactful email marketing campaigns.
                             </p>
                           </div>
                         </div>
@@ -1234,9 +1225,9 @@
                 data-widget_type="text-editor.default"
               >
                 <div class="elementor-widget-container">
-                  Consectetur adipiscing elit sed do eiusmod tempor incididunt
+                  <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt
                   ut labore et dolore magna aliqua. Utenim minim veniam quis
-                  nostrud exercitation.
+                  nostrud exercitation. -->
                 </div>
               </div>
               <div
@@ -1277,8 +1268,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Boosts Sales</h3>
                               <p class="icon-box-description">
-                                Consectetur adipiscing elit sed do eiusmod
-                                tempor incididunt ut labore.
+                              Accelerate your revenue growth with our proven sales-boosting strategies.
                               </p>
                             </div>
                           </div>
@@ -1317,8 +1307,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Drive Growth</h3>
                               <p class="icon-box-description">
-                                Adipiscing elit sed do eiusmod tempor incididunt
-                                ut labore et dolore.
+                              Unlock your business's potential and propel growth with our tailored strategies.
                               </p>
                             </div>
                           </div>
@@ -1357,8 +1346,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Targeted Audience</h3>
                               <p class="icon-box-description">
-                                Consectetur adipiscing elit sed do eiusmod
-                                tempor incididunt ut labore.
+                              Reach your ideal audience with precision-targeted marketing solutions.
                               </p>
                             </div>
                           </div>
@@ -1397,8 +1385,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Improved Rankings</h3>
                               <p class="icon-box-description">
-                                Adipiscing elit sed do eiusmod tempor incididunt
-                                ut labore et dolore.
+                              Elevate your online presence with strategies designed to boost your rankings.
                               </p>
                             </div>
                           </div>
@@ -1474,9 +1461,9 @@
                     data-widget_type="text-editor.default"
                   >
                     <div class="elementor-widget-container">
-                      Adipiscing elit sed do eiusmod tempor incididunt ut labore
+                      <!-- Adipiscing elit sed do eiusmod tempor incididunt ut labore
                       et dolore magna aliqua. Utenim ad minim veniam quis
-                      nostrud exercitation ullamco laboris dolore magna aliqua.
+                      nostrud exercitation ullamco laboris dolore magna aliqua. -->
                     </div>
                   </div>
                 </div>
@@ -1509,7 +1496,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $49,9
+                            $49
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1544,10 +1531,7 @@
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_14_12_65c1cb48acd1c"
                       >
                         <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
                         </a>
                       </div>
                     </div>
@@ -1754,7 +1738,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $89,9
+                            $89
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1789,10 +1773,7 @@
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_14_14_65c1cb48b052a"
                       >
                         <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
                         </a>
                       </div>
                     </div>
@@ -1936,7 +1917,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $149,9
+                            $149
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1971,10 +1952,7 @@
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_14_17_65c1cb48b4db3"
                       >
                         <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
                         </a>
                       </div>
                     </div>
@@ -2157,9 +2135,9 @@
             data-widget_type="text-editor.default"
           >
             <div class="elementor-widget-container">
-              Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+              <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
               labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-              exercitation.
+              exercitation. -->
             </div>
           </div>
           <div
@@ -2184,7 +2162,7 @@
                         <div class="comment-content">
                           <p>
                             I can &#039;t believe the results we &#039;ve
-                            achieved with Rankz. Their SEO strategies have
+                            achieved with devsite studio. Their SEO strategies have
                             tripled our website traffic and brought in a flood
                             of new customers. We &#039;re thrilled with their
                             services!
@@ -2193,34 +2171,39 @@
                         <div class="comment-header">
                           <ul class="rating-stars">
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                           </ul>
                         </div>
@@ -2249,7 +2232,7 @@
                         <div class="comment-content">
                           <p>
                             Our startup was struggling to make a mark in the
-                            digital world until we partnered with Rankz. Their
+                            digital world until we partnered with devsite studio. Their
                             guidance and marketing tactics have propelled us to
                             success. Highly recommended!
                           </p>
@@ -2257,34 +2240,39 @@
                         <div class="comment-header">
                           <ul class="rating-stars">
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                           </ul>
                         </div>
@@ -2312,7 +2300,7 @@
                       <div class="testimonial-box hover-from-left">
                         <div class="comment-content">
                           <p>
-                            Rankz has exceeded our expectations. Their social
+                            Devsite studio has exceeded our expectations. Their social
                             media marketing campaigns have not only increased
                             our brand &#039;s visibility but also engaged our
                             audience like never before. Highly recommended!
@@ -2321,34 +2309,39 @@
                         <div class="comment-header">
                           <ul class="rating-stars">
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                           </ul>
                         </div>
@@ -2378,7 +2371,7 @@
                       <div class="testimonial-box hover-from-left">
                         <div class="comment-content">
                           <p>
-                            The SEO and content marketing services from Rankz
+                            The SEO and content marketing services from devsite studio
                             have transformed my online coaching business. I
                             &#039;m reaching a wider audience and clients are
                             finding me more easily. Thank you!
@@ -2387,34 +2380,39 @@
                         <div class="comment-header">
                           <ul class="rating-stars">
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                           </ul>
                         </div>
@@ -2443,7 +2441,7 @@
                         <div class="comment-content">
                           <p>
                             I was struggling to get my content noticed until I
-                            found Rankz. They helped optimize my blog and now my
+                            found devsite studio. They helped optimize my blog and now my
                             articles are ranking on the first page of Google. I
                             couldn &#039;t be happier! Highly recommended!
                           </p>
@@ -2451,34 +2449,39 @@
                         <div class="comment-header">
                           <ul class="rating-stars">
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                             <li>
-                              <i
-                                aria-hidden="true"
-                                class="jki jki-star-solid"
-                              ></i>
+                            <i>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+                                  <path fill="currentColor" d="m5.825 22l1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625l7.2.625l-5.45 4.725L18.175 22L12 18.275z"/>
+                                </svg>
+                              </i>
                             </li>
                           </ul>
                         </div>
@@ -2594,9 +2597,7 @@
               data-widget_type="text-editor.default"
             >
               <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
+              Discover Comprehensive Solutions to Your Queries Right Here! Our Expert Team is Ready to Provide In-Depth Insights and Guidance to Address All Your Concerns and Propel You Towards Success.
               </div>
             </div>
             <div
@@ -2621,9 +2622,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, you can upgrade your subscription at any time. Simply navigate to your account settings, where you'll find options to upgrade to a higher tier of service.
                     </div>
                   </div>
                 </div>
@@ -2651,9 +2650,8 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, we specialize in crafting customized marketing strategies tailored to meet the unique needs and goals of your business. Our experienced team will work closely with you to develop a comprehensive plan that maximizes your online presence and drives tangible results.
+
                     </div>
                   </div>
                 </div>

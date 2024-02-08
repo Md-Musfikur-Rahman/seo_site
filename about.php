@@ -935,9 +935,9 @@
                   display: inline-block;
                 }
               </style>
-              Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+              <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
               labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-              exercitation.
+              exercitation. -->
             </div>
           </div>
           <div
@@ -947,7 +947,7 @@
             data-settings='{"content_width":"boxed"}'
           >
             <div class="e-con-inner">
-              <div
+              <!-- <div
                 class="elementor-element elementor-element-7fa6da18 elementor-widget__width-auto elementor-widget elementor-widget-jkit_video_button"
                 data-id="7fa6da18"
                 data-element_type="widget"
@@ -969,16 +969,15 @@
                       class="jkit-video-popup-btn glow-enable"
                     >
                       <span class="icon-position-before">
-                        <i
-                          aria-hidden="true"
-                          class="jki jki-play-button-light"
-                        ></i>
+                        <i>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 32 32"><path fill="none" d="M11 23a1 1 0 0 1-1-1V10a1 1 0 0 1 1.447-.894l12 6a1 1 0 0 1 0 1.788l-12 6A1.001 1.001 0 0 1 11 23"/><path fill="currentColor" d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2m7.447 14.895l-12 6A1 1 0 0 1 10 22V10a1 1 0 0 1 1.447-.894l12 6a1 1 0 0 1 0 1.788"/></svg>
+                      </i>
                       </span>
                     </a>
                   </div>
                 </div>
-              </div>
-              <div
+              </div> -->
+              <!-- <div
                 class="elementor-element elementor-element-2b5a51aa elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button"
                 data-id="2b5a51aa"
                 data-element_type="widget"
@@ -996,7 +995,7 @@
                     </a>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -1033,12 +1032,12 @@
                     decoding="async"
                     width="699"
                     height="1004"
-                    src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1.png"
+                    src="./assets/muzahid.png"
                     class="attachment-large size-large wp-image-208"
                     alt=""
                     srcset="
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1.png         699w,
-                      https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1-209x300.png 209w
+                    ./assets/muzahid.png         699w,
+                    ./assets/muzahid.png 209w
                     "
                     sizes="(max-width: 699px) 100vw, 699px"
                   />
@@ -1076,8 +1075,7 @@
                     <div class="icon-box icon-box-body">
                       <h3 class="title">Our Mission</h3>
                       <p class="icon-box-description">
-                        Consectetur adipiscing elit sed do eiusmod tempor
-                        incididunt ut labore dolore magna.
+                      Our mission is to empower businesses to thrive in the digital landscape by delivering innovative solutions and exceptional results.
                       </p>
                     </div>
                   </div>
@@ -1108,8 +1106,7 @@
                     <div class="icon-box icon-box-body">
                       <h3 class="title">Our Vision</h3>
                       <p class="icon-box-description">
-                        Consectetur adipiscing elit sed do eiusmod tempor
-                        incididunt ut labore dolore magna.
+                      Our vision is to become the leading force in shaping the future of digital marketing, driving success for businesses worldwide through creativity, expertise, and innovation.
                       </p>
                     </div>
                   </div>
@@ -1140,8 +1137,7 @@
                     <div class="icon-box icon-box-body">
                       <h3 class="title">Our Values</h3>
                       <p class="icon-box-description">
-                        Consectetur adipiscing elit sed do eiusmod tempor
-                        incididunt ut labore dolore magna.
+                      Our values encompass integrity, excellence, collaboration, and client-centricity. We are committed to upholding these principles in every aspect of our work, ensuring the highest standards of service and satisfaction for our clients.
                       </p>
                     </div>
                   </div>
@@ -1173,10 +1169,7 @@
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_12_6_65c1cb2b19f5c"
                       >
                         <a href="#" class="jkit-button-wrapper">
-                          More About Us<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                          More About Us
                         </a>
                       </div>
                     </div>
@@ -1273,26 +1266,23 @@
                       </style>
                       <div class="elementor-image-box-wrapper">
                         <figure class="elementor-image-box-img">
-                          <img
+                          <!-- <img
                             decoding="async"
                             width="160"
                             height="160"
-                            src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/testimonial-M6NJPEF.png"
+                            src="./assets/muzahid.png"
                             class="attachment-full size-full wp-image-80"
                             alt=""
-                            srcset="
-                              https://kitpapa.net/rankz/wp-content/uploads/2024/01/testimonial-M6NJPEF.png         160w,
-                              https://kitpapa.net/rankz/wp-content/uploads/2024/01/testimonial-M6NJPEF-150x150.png 150w
-                            "
+                            srcset="./assets/muzahid.png 160w, ./assets/muzahid.png 150w"
                             sizes="(max-width: 160px) 100vw, 160px"
-                          />
+                          /> -->
                         </figure>
                         <div class="elementor-image-box-content">
                           <h3 class="elementor-image-box-title">
-                            Cassius Greer
+                            Ali Ashan Md Muzahhid
                           </h3>
                           <p class="elementor-image-box-description">
-                            CEO Rankz
+                            CEO Devsite Studio
                           </p>
                         </div>
                       </div>
@@ -1353,9 +1343,9 @@
                 data-widget_type="text-editor.default"
               >
                 <div class="elementor-widget-container">
-                  Consectetur adipiscing elit sed do eiusmod tempor incididunt
+                  <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt
                   ut labore et dolore magna aliqua. Utenim minim veniam quis
-                  nostrud exercitation.
+                  nostrud exercitation. -->
                 </div>
               </div>
               <div
@@ -1551,7 +1541,7 @@
             >
               <div class="elementor-widget-container">
                 <h2 class="elementor-heading-title elementor-size-default">
-                  Meet Poeple Behind Rankz
+                  Meet Poeple Behind Devsite Studio
                 </h2>
               </div>
             </div>
@@ -1563,9 +1553,9 @@
               data-widget_type="text-editor.default"
             >
               <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+                <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
                 labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
+                exercitation. -->
               </div>
             </div>
           </div>
@@ -1602,7 +1592,7 @@
                           <div
                             class="heading-section-title display-inline-block"
                           >
-                            <h3 class="heading-title">Andre Sweeney</h3>
+                            <h3 class="heading-title"> ... NAi</h3>
                           </div>
                           <h3 class="heading-section-subtitle style-color">
                             Digital Marketer

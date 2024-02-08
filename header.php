@@ -88,12 +88,6 @@
                       <a href="./about.php">About</a>
                     </li>
                     <li
-                      id="menu-item-32"
-                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32"
-                    >
-                      <a href="#">Pages</a>
-                      <ul class="sub-menu">
-                        <li
                           id="menu-item-31"
                           class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"
                         >
@@ -111,9 +105,8 @@
                         >
                           <a href="./faq.php">FAQ</a>
                         </li>
-                      </ul>
-                    </li>
-                    <li
+                     
+                    <!-- <li
                       id="menu-item-26"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"
                     >
@@ -124,7 +117,7 @@
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"
                     >
                       <a href="./contact.php">Contact</a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
                 <div class="jkit-nav-identity-panel">

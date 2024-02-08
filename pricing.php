@@ -934,9 +934,9 @@
                   display: inline-block;
                 }
               </style>
-              Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+              <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
               labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-              exercitation.
+              exercitation. -->
             </div>
           </div>
         </div>
@@ -975,7 +975,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $49,9
+                            $49
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1009,11 +1009,8 @@
                       <div
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_16_3_65c1cb656790c"
                       >
-                        <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        <a href="./contact.php" class="jkit-button-wrapper">
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
                         </a>
                       </div>
                     </div>
@@ -1247,7 +1244,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $149,9
+                            $149
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1281,11 +1278,9 @@
                       <div
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_16_6_65c1cb656f4f7"
                       >
-                        <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        <a href="./contact.php" class="jkit-button-wrapper">
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
+
                         </a>
                       </div>
                     </div>
@@ -1436,7 +1431,7 @@
                       >
                         <div class="heading-section-title display-inline-block">
                           <span class="heading-title">
-                            $89,9
+                            $89
                             <span class="style-color">
                               <span>/month</span>
                             </span>
@@ -1470,11 +1465,9 @@
                       <div
                         class="jeg-elementor-kit jkit-button icon-position-after jeg_module_16_8_65c1cb6571e83"
                       >
-                        <a href="#" class="jkit-button-wrapper">
-                          Get Started<i
-                            aria-hidden="true"
-                            class="jki jki-right-arrow-light"
-                          ></i>
+                        <a href="./contact.php" class="jkit-button-wrapper">
+                        Get Started <i> <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3"/></svg> </i>
+
                         </a>
                       </div>
                     </div>
@@ -1625,9 +1618,9 @@
                 data-widget_type="text-editor.default"
               >
                 <div class="elementor-widget-container">
-                  Consectetur adipiscing elit sed do eiusmod tempor incididunt
+                  <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt
                   ut labore et dolore magna aliqua. Utenim minim veniam quis
-                  nostrud exercitation.
+                  nostrud exercitation. -->
                 </div>
               </div>
               <div
@@ -1851,8 +1844,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Select Services</h3>
                               <p class="icon-box-description">
-                                Lorem ipsum dolor sit amet consectetur adipisci
-                                elit.
+                              Choose from our range of services tailored to meet your specific needs and goals.
                               </p>
                             </div>
                           </div>
@@ -1917,8 +1909,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Start Consultation</h3>
                               <p class="icon-box-description">
-                                Consecte adipiscing elit sed do eiusmod tempor
-                                dolore.
+                              Begin your journey to success with a consultation tailored to your business needs.
                               </p>
                             </div>
                           </div>
@@ -1983,8 +1974,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Completed Payment</h3>
                               <p class="icon-box-description">
-                                Lorem ipsum dolor sit amet consectetur adipisci
-                                elit.
+                              Secure your investment by completing your payment securely and conveniently.
                               </p>
                             </div>
                           </div>
@@ -2049,8 +2039,7 @@
                             <div class="icon-box icon-box-body">
                               <h3 class="title">Get Solutions</h3>
                               <p class="icon-box-description">
-                                Consecte adipiscing elit sed do eiusmod tempor
-                                dolore.
+                              Sit back and relax as our team gets to work, providing tailored solutions to meet your business objectives.
                               </p>
                             </div>
                           </div>
@@ -2119,9 +2108,7 @@
               data-widget_type="text-editor.default"
             >
               <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
+              Discover Comprehensive Solutions to Your Queries Right Here! Our Expert Team is Ready to Provide In-Depth Insights and Guidance to Address All Your Concerns and Propel You Towards Success.
               </div>
             </div>
           </div>
@@ -2153,9 +2140,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, you can upgrade your subscription at any time. Simply navigate to your account settings, where you'll find options to upgrade to a higher tier of service.
                     </div>
                   </div>
                 </div>
@@ -2183,9 +2168,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    While we cannot guarantee first-page placement on Google, we're committed to employing effective SEO strategies to enhance your website's visibility and improve its ranking over time.
                     </div>
                   </div>
                 </div>
@@ -2213,9 +2196,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, we specialize in crafting customized marketing strategies tailored to meet the unique needs and goals of your business. Our experienced team will work closely with you to develop a comprehensive plan that maximizes your online presence and drives tangible results.
                     </div>
                   </div>
                 </div>
@@ -2250,9 +2231,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, we provide local SEO services tailored to boost your visibility in local search results and drive more foot traffic to your business.
                     </div>
                   </div>
                 </div>
@@ -2280,9 +2259,7 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    Yes, blogging is essential for SEO success. Regularly publishing high-quality content on your website helps improve your search engine rankings by demonstrating expertise, authority, and relevance to search engines. It also provides opportunities to target valuable keywords, attract organic traffic, and earn backlinks from other websites.
                     </div>
                   </div>
                 </div>
@@ -2310,9 +2287,8 @@
                       </h6>
                     </div>
                     <div class="heading-section-description">
-                      Voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi.
+                    The ROI of digital marketing varies based on factors like industry and campaign goals but generally offers high returns due to precise targeting and real-time optimization.
+
                     </div>
                   </div>
                 </div>
