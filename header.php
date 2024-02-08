@@ -40,14 +40,14 @@
                 display: inline-block;
               }
             </style>
-            <a href="#">
+            <a href="./">
               <img
                 fetchpriority="high"
                 width="656"
                 height="169"
                 src="./assets/logo_1.png"
                 class="attachment-full size-full wp-image-187"
-                alt=""
+                alt="Devsite Studio"
                 decoding="async"
                 srcset="./assets/logo_1.png 656w, ./assets/logo_1.png 300w"
                 sizes="(max-width: 656px) 100vw, 656px"
@@ -67,7 +67,7 @@
               data-item-indicator='&lt;i aria-hidden="true" class="jki jki-chevron-down-light"&gt;&lt;/i&gt;'
             >
               <button class="jkit-hamburger-menu">
-                <i aria-hidden="true" class="jki jki-menu-11-light"></i>
+                <i aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="white" stroke-linecap="round" stroke-width="1.5" d="M4 7h3m13 0h-9m9 10h-3M4 17h9m-9-5h16"/></svg></i>
               </button>
               <div class="jkit-menu-wrapper">
                 <div class="jkit-menu-container">
@@ -103,7 +103,7 @@
                           id="menu-item-28"
                           class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"
                         >
-                          <a href="./faq.php">FAQ</a>
+                          <a href="./works.php">Works</a>
                         </li>
                      
                     <!-- <li
@@ -122,8 +122,8 @@
                 </div>
                 <div class="jkit-nav-identity-panel">
                   <div class="jkit-nav-site-title">
-                    <a href="/" class="jkit-nav-logo">
-                      <img src="./assets/dss.png" />
+                    <a href="./" class="jkit-nav-logo">
+                      <img src="./assets/logo_1.png" />
                     </a>
                   </div>
                   <button class="jkit-close-menu">

@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+
+  <link rel="icon" href="./assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About &#8211;Devsite Studio</title>
+    <title>About &#8211; Devsite Studio</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -1592,10 +1595,10 @@
                           <div
                             class="heading-section-title display-inline-block"
                           >
-                            <h3 class="heading-title"> ... NAi</h3>
+                            <h3 class="heading-title"> Ali Ahsan Md Muzahid</h3>
                           </div>
                           <h3 class="heading-section-subtitle style-color">
-                            Digital Marketer
+                            CEO & Digital Marketer
                           </h3>
                         </div>
                       </div>
@@ -1930,10 +1933,8 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-repeater-item-c94ce35"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-facebook-light</span
-                              >
-                              <i class="jki jki-facebook-light"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M10.488 3.788A5.25 5.25 0 0 1 14.2 2.25h2.7a.75.75 0 0 1 .75.75v3.6a.75.75 0 0 1-.75.75h-2.7a.15.15 0 0 0-.15.15v1.95h2.85a.75.75 0 0 1 .728.932l-.9 3.6a.75.75 0 0 1-.728.568h-1.95V21a.75.75 0 0 1-.75.75H9.7a.75.75 0 0 1-.75-.75v-6.45H7a.75.75 0 0 1-.75-.75v-3.6A.75.75 0 0 1 7 9.45h1.95V7.5a5.25 5.25 0 0 1 1.538-3.712M14.2 3.75a3.75 3.75 0 0 0-3.75 3.75v2.7a.75.75 0 0 1-.75.75H7.75v2.1H9.7a.75.75 0 0 1 .75.75v6.45h2.1V13.8a.75.75 0 0 1 .75-.75h2.114l.525-2.1H13.3a.75.75 0 0 1-.75-.75V7.5a1.65 1.65 0 0 1 1.65-1.65h1.95v-2.1z" clip-rule="evenodd"/></svg>
+                          </a>
                             </a>
                           </span>
                           <span class="elementor-grid-item">
@@ -1977,10 +1978,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-linkedin-in elementor-repeater-item-3089857"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-linkedin-in</span
-                              >
-                              <i class="jki jki-linkedin-in"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="white" d="M18 3a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 2H6a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1M8 10a1 1 0 0 1 .993.883L9 11v5a1 1 0 0 1-1.993.117L7 16v-5a1 1 0 0 1 1-1m3-1a1 1 0 0 1 .984.821a5.82 5.82 0 0 1 .623-.313c.667-.285 1.666-.442 2.568-.159c.473.15.948.43 1.3.907c.315.425.485.942.519 1.523L17 12v4a1 1 0 0 1-1.993.117L15 16v-4c0-.33-.08-.484-.132-.555a.548.548 0 0 0-.293-.188c-.348-.11-.849-.052-1.182.09c-.5.214-.958.55-1.27.861L12 12.34V16a1 1 0 0 1-1.993.117L10 16v-6a1 1 0 0 1 1-1M8 7a1 1 0 1 1 0 2a1 1 0 0 1 0-2"/></g></svg>
                             </a>
                           </span>
                         </div>
@@ -2007,13 +2005,10 @@
                           decoding="async"
                           width="699"
                           height="1004"
-                          src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/profile-3.png"
+                          src="./assets/muzahid.png"
                           class="attachment-full size-full wp-image-210"
                           alt=""
-                          srcset="
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/profile-3.png         699w,
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/profile-3-209x300.png 209w
-                          "
+                          srcset="./assets/muzahid.png     699w,./assets/muzahid.png 209w"
                           sizes="(max-width: 699px) 100vw, 699px"
                         />
                       </div>
@@ -2047,10 +2042,10 @@
                           <div
                             class="heading-section-title display-inline-block"
                           >
-                            <h3 class="heading-title">Marissa Atkins</h3>
+                            <h3 class="heading-title">Md Musfikur Rahman</h3>
                           </div>
                           <h3 class="heading-section-subtitle style-color">
-                            Content Strategist
+                            Founder & CTO
                           </h3>
                         </div>
                       </div>
@@ -2070,10 +2065,8 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-repeater-item-c94ce35"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-facebook-light</span
-                              >
-                              <i class="jki jki-facebook-light"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M10.488 3.788A5.25 5.25 0 0 1 14.2 2.25h2.7a.75.75 0 0 1 .75.75v3.6a.75.75 0 0 1-.75.75h-2.7a.15.15 0 0 0-.15.15v1.95h2.85a.75.75 0 0 1 .728.932l-.9 3.6a.75.75 0 0 1-.728.568h-1.95V21a.75.75 0 0 1-.75.75H9.7a.75.75 0 0 1-.75-.75v-6.45H7a.75.75 0 0 1-.75-.75v-3.6A.75.75 0 0 1 7 9.45h1.95V7.5a5.25 5.25 0 0 1 1.538-3.712M14.2 3.75a3.75 3.75 0 0 0-3.75 3.75v2.7a.75.75 0 0 1-.75.75H7.75v2.1H9.7a.75.75 0 0 1 .75.75v6.45h2.1V13.8a.75.75 0 0 1 .75-.75h2.114l.525-2.1H13.3a.75.75 0 0 1-.75-.75V7.5a1.65 1.65 0 0 1 1.65-1.65h1.95v-2.1z" clip-rule="evenodd"/></svg>
+
                             </a>
                           </span>
                           <span class="elementor-grid-item">
@@ -2117,10 +2110,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-linkedin-in elementor-repeater-item-3089857"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-linkedin-in</span
-                              >
-                              <i class="jki jki-linkedin-in"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="white" d="M18 3a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 2H6a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1M8 10a1 1 0 0 1 .993.883L9 11v5a1 1 0 0 1-1.993.117L7 16v-5a1 1 0 0 1 1-1m3-1a1 1 0 0 1 .984.821a5.82 5.82 0 0 1 .623-.313c.667-.285 1.666-.442 2.568-.159c.473.15.948.43 1.3.907c.315.425.485.942.519 1.523L17 12v4a1 1 0 0 1-1.993.117L15 16v-4c0-.33-.08-.484-.132-.555a.548.548 0 0 0-.293-.188c-.348-.11-.849-.052-1.182.09c-.5.214-.958.55-1.27.861L12 12.34V16a1 1 0 0 1-1.993.117L10 16v-6a1 1 0 0 1 1-1M8 7a1 1 0 1 1 0 2a1 1 0 0 1 0-2"/></g></svg>
                             </a>
                           </span>
                         </div>
@@ -2147,13 +2137,10 @@
                           decoding="async"
                           width="399"
                           height="458"
-                          src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-finance-and-employment-female-successfu-D3NJMQX-e1694886011960.png"
+                          src="./assets/musfik.png"
                           class="attachment-full size-full wp-image-86"
                           alt=""
-                          srcset="
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-finance-and-employment-female-successfu-D3NJMQX-e1694886011960.png         399w,
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/business-finance-and-employment-female-successfu-D3NJMQX-e1694886011960-261x300.png 261w
-                          "
+                          srcset="./assets/musfik.png 399w,./assets/musfik.png 261w"
                           sizes="(max-width: 399px) 100vw, 399px"
                         />
                       </div>
@@ -2195,13 +2182,10 @@
                           decoding="async"
                           width="699"
                           height="1004"
-                          src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-2.png"
+                          src="./assets/tariqul.jpg"
                           class="attachment-full size-full wp-image-209"
                           alt=""
-                          srcset="
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-2.png         699w,
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-2-209x300.png 209w
-                          "
+                          srcset="./assets/tariqul.jpg 699w,./assets/tariqul.jpg 209w"
                           sizes="(max-width: 699px) 100vw, 699px"
                         />
                       </div>
@@ -2228,7 +2212,7 @@
                           <div
                             class="heading-section-title display-inline-block"
                           >
-                            <h3 class="heading-title">Jim Doe</h3>
+                            <h3 class="heading-title">Tariqul Islam</h3>
                           </div>
                           <h3 class="heading-section-subtitle style-color">
                             Head of Marketing
@@ -2251,10 +2235,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-repeater-item-c94ce35"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-facebook-light</span
-                              >
-                              <i class="jki jki-facebook-light"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M10.488 3.788A5.25 5.25 0 0 1 14.2 2.25h2.7a.75.75 0 0 1 .75.75v3.6a.75.75 0 0 1-.75.75h-2.7a.15.15 0 0 0-.15.15v1.95h2.85a.75.75 0 0 1 .728.932l-.9 3.6a.75.75 0 0 1-.728.568h-1.95V21a.75.75 0 0 1-.75.75H9.7a.75.75 0 0 1-.75-.75v-6.45H7a.75.75 0 0 1-.75-.75v-3.6A.75.75 0 0 1 7 9.45h1.95V7.5a5.25 5.25 0 0 1 1.538-3.712M14.2 3.75a3.75 3.75 0 0 0-3.75 3.75v2.7a.75.75 0 0 1-.75.75H7.75v2.1H9.7a.75.75 0 0 1 .75.75v6.45h2.1V13.8a.75.75 0 0 1 .75-.75h2.114l.525-2.1H13.3a.75.75 0 0 1-.75-.75V7.5a1.65 1.65 0 0 1 1.65-1.65h1.95v-2.1z" clip-rule="evenodd"/></svg>
                             </a>
                           </span>
                           <span class="elementor-grid-item">
@@ -2298,10 +2279,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-linkedin-in elementor-repeater-item-3089857"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-linkedin-in</span
-                              >
-                              <i class="jki jki-linkedin-in"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="white" d="M18 3a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 2H6a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1M8 10a1 1 0 0 1 .993.883L9 11v5a1 1 0 0 1-1.993.117L7 16v-5a1 1 0 0 1 1-1m3-1a1 1 0 0 1 .984.821a5.82 5.82 0 0 1 .623-.313c.667-.285 1.666-.442 2.568-.159c.473.15.948.43 1.3.907c.315.425.485.942.519 1.523L17 12v4a1 1 0 0 1-1.993.117L15 16v-4c0-.33-.08-.484-.132-.555a.548.548 0 0 0-.293-.188c-.348-.11-.849-.052-1.182.09c-.5.214-.958.55-1.27.861L12 12.34V16a1 1 0 0 1-1.993.117L10 16v-6a1 1 0 0 1 1-1M8 7a1 1 0 1 1 0 2a1 1 0 0 1 0-2"/></g></svg>
                             </a>
                           </span>
                         </div>
@@ -2335,13 +2313,10 @@
                           decoding="async"
                           width="699"
                           height="1004"
-                          src="https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1.png"
+                          src="./assets/nishi.png"
                           class="attachment-full size-full wp-image-208"
                           alt=""
-                          srcset="
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1.png         699w,
-                            https://kitpapa.net/rankz/wp-content/uploads/2024/01/Profile-1-209x300.png 209w
-                          "
+                          srcset="./assets/nishi.png 699w,./assets/nishi.png 209w"
                           sizes="(max-width: 699px) 100vw, 699px"
                         />
                       </div>
@@ -2368,10 +2343,10 @@
                           <div
                             class="heading-section-title display-inline-block"
                           >
-                            <h3 class="heading-title">Scott Spence</h3>
+                            <h3 class="heading-title">Moshfeca Iffath Nishi</h3>
                           </div>
                           <h3 class="heading-section-subtitle style-color">
-                            Project Manager
+                            Project Manager & SEO Expert
                           </h3>
                         </div>
                       </div>
@@ -2391,10 +2366,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-repeater-item-c94ce35"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-facebook-light</span
-                              >
-                              <i class="jki jki-facebook-light"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M10.488 3.788A5.25 5.25 0 0 1 14.2 2.25h2.7a.75.75 0 0 1 .75.75v3.6a.75.75 0 0 1-.75.75h-2.7a.15.15 0 0 0-.15.15v1.95h2.85a.75.75 0 0 1 .728.932l-.9 3.6a.75.75 0 0 1-.728.568h-1.95V21a.75.75 0 0 1-.75.75H9.7a.75.75 0 0 1-.75-.75v-6.45H7a.75.75 0 0 1-.75-.75v-3.6A.75.75 0 0 1 7 9.45h1.95V7.5a5.25 5.25 0 0 1 1.538-3.712M14.2 3.75a3.75 3.75 0 0 0-3.75 3.75v2.7a.75.75 0 0 1-.75.75H7.75v2.1H9.7a.75.75 0 0 1 .75.75v6.45h2.1V13.8a.75.75 0 0 1 .75-.75h2.114l.525-2.1H13.3a.75.75 0 0 1-.75-.75V7.5a1.65 1.65 0 0 1 1.65-1.65h1.95v-2.1z" clip-rule="evenodd"/></svg>
                             </a>
                           </span>
                           <span class="elementor-grid-item">
@@ -2438,10 +2410,7 @@
                               class="elementor-icon elementor-social-icon elementor-social-icon-jki-linkedin-in elementor-repeater-item-3089857"
                               target="_blank"
                             >
-                              <span class="elementor-screen-only"
-                                >Jki-linkedin-in</span
-                              >
-                              <i class="jki jki-linkedin-in"></i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none"><path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"/><path fill="white" d="M18 3a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3zm0 2H6a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1M8 10a1 1 0 0 1 .993.883L9 11v5a1 1 0 0 1-1.993.117L7 16v-5a1 1 0 0 1 1-1m3-1a1 1 0 0 1 .984.821a5.82 5.82 0 0 1 .623-.313c.667-.285 1.666-.442 2.568-.159c.473.15.948.43 1.3.907c.315.425.485.942.519 1.523L17 12v4a1 1 0 0 1-1.993.117L15 16v-4c0-.33-.08-.484-.132-.555a.548.548 0 0 0-.293-.188c-.348-.11-.849-.052-1.182.09c-.5.214-.958.55-1.27.861L12 12.34V16a1 1 0 0 1-1.993.117L10 16v-6a1 1 0 0 1 1-1M8 7a1 1 0 1 1 0 2a1 1 0 0 1 0-2"/></g></svg>
                             </a>
                           </span>
                         </div>

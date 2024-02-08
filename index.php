@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+
+  <link rel="icon" href="./assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Devsite Studio &#8211;SEO and Digital Marketing Agency</title>
+    <title>Devsite Studio &#8211; SEO and Digital Marketing Agency</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -1910,7 +1913,6 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -1937,7 +1939,6 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/blog/"
                                 class="category-blog"
                                 >Blog</a
                               >
@@ -1946,7 +1947,6 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
                               >The Ultimate Guide to SEO: Boosting Your
                               Website’s Visibility</a
                             >
@@ -1991,7 +1991,6 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -2018,7 +2017,6 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/blog/"
                                 class="category-blog"
                                 >Blog</a
                               >
@@ -2027,7 +2025,6 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
                               >Social Media Marketing Strategies for Small
                               Businesses</a
                             >
@@ -2045,7 +2042,6 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -2072,7 +2068,6 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/insight/"
                                 class="category-insight"
                                 >Insight</a
                               >
@@ -2081,7 +2076,6 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
                               >PPC vs. SEO: Which Digital Advertising Strategy
                               Is Right for You?</a
                             >

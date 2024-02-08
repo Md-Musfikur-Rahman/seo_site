@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+  <link rel="icon" href="./assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Services &#8211;Devsite Studio</title>
+    <title>Services &#8211; Devsite Studio</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -1161,10 +1163,9 @@
                             </div>
                           </div>
                           <div class="icon-box icon-box-body">
-                            <h3 class="title">Email Marketing</h3>
+                            <h3 class="title">Youtube SEO</h3>
                             <p class="icon-box-description">
-                            Connect with your audience and drive conversions through impactful email marketing campaigns.
-                            </p>
+                            Elevate your breakfast game with our perfect pancake tutorial! Fluffy, delicious, and easy for all skill levels. Watch now!                            </p>
                           </div>
                         </div>
                       </div>

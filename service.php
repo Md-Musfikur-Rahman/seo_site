@@ -204,9 +204,9 @@
                             </div>
                           </div>
                           <div class="icon-box icon-box-body">
-                            <h3 class="title">Email Marketing</h3>
+                            <h3 class="title">YouTube SEO</h3>
                             <p class="icon-box-description">
-                            Connect with your audience and drive conversions through impactful email marketing campaigns.
+                            Elevate your breakfast game with our perfect pancake tutorial! Fluffy, delicious, and easy for all skill levels. Watch now!                            </p>
                             </p>
                           </div>
                         </div>

@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+  <link rel="icon" href="./assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FAQ &#8211;Rankz</title>
+    <title>Works &#8211; Devsite Studio</title>
     <meta name="robots" content="max-image-preview:large" />
     <link
       rel="alternate"
@@ -881,10 +883,11 @@
                 }
               </style>
               <h1 class="elementor-heading-title elementor-size-default">
-                Get Your Questions Answered Here
+              Discover Our Latest Projects Here    
               </h1>
             </div>
           </div>
+
           <div
             class="elementor-element elementor-element-7a7c12e0 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor"
             data-id="7a7c12e0"
@@ -933,202 +936,117 @@
                   display: inline-block;
                 }
               </style>
-              Discover Comprehensive Solutions to Your Queries Right Here! Our Expert Team is Ready to Provide In-Depth Insights and Guidance to Address All Your Concerns and Propel You Towards Success.
-            </div>
+Explore Our Portfolio. <br/> Comprehensive Solutions to Your Needs Await! Dive into Our Latest Projects and Witness Expert Craftsmanship to Propel You Towards Success.            </div>
           </div>
         </div>
       </div>
-      <div
-        class="elementor-element elementor-element-2ec2bc30 e-flex e-con-boxed e-con e-parent"
-        data-id="2ec2bc30"
-        data-element_type="container"
-        data-settings='{"content_width":"boxed"}'
-        data-core-v316-plus="true"
-      >
-        <div class="e-con-inner">
-          <div
-            class="elementor-element elementor-element-273879f5 e-con-full e-flex e-con e-child"
-            data-id="273879f5"
-            data-element_type="container"
-            data-settings='{"content_width":"full"}'
-          >
-            <div
-              class="elementor-element elementor-element-4c2c3161 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="4c2c3161"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":600}'
-            >
-              <div
-                class="elementor-element elementor-element-544ef115 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="544ef115"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_2_65c1ce975d604"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Can I Upgrade my Subscription?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    Yes, you can upgrade your subscription at any time. Simply navigate to your account settings, where you'll find options to upgrade to a higher tier of service.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-3f55296e e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="3f55296e"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":800}'
-            >
-              <div
-                class="elementor-element elementor-element-33e64f02 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="33e64f02"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_3_65c1ce975ecfe"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        First-Page Google Guarantee?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    While we cannot guarantee first-page placement on Google, we're committed to employing effective SEO strategies to enhance your website's visibility and improve its ranking over time.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-1903ad33 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="1903ad33"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1000}'
-            >
-              <div
-                class="elementor-element elementor-element-62953908 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="62953908"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_4_65c1ce9760d5a"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Customized Marketing Strategies?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    Yes, we specialize in crafting customized marketing strategies tailored to meet the unique needs and goals of your business. Our experienced team will work closely with you to develop a comprehensive plan that maximizes your online presence and drives tangible results.                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="elementor-element elementor-element-2dd40421 e-con-full e-flex e-con e-child"
-            data-id="2dd40421"
-            data-element_type="container"
-            data-settings='{"content_width":"full"}'
-          >
-            <div
-              class="elementor-element elementor-element-53e72ae3 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="53e72ae3"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1200}'
-            >
-              <div
-                class="elementor-element elementor-element-442a2f9b elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="442a2f9b"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_5_65c1ce9762da0"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Do You Offer Local SEO Services?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    Yes, we provide local SEO services tailored to boost your visibility in local search results and drive more foot traffic to your business.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-506f2992 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="506f2992"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1400}'
-            >
-              <div
-                class="elementor-element elementor-element-42789395 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="42789395"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_6_65c1ce97643f9"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        Is Blogging Essential for SEO Success?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    Yes, blogging is essential for SEO success. Regularly publishing high-quality content on your website helps improve your search engine rankings by demonstrating expertise, authority, and relevance to search engines. It also provides opportunities to target valuable keywords, attract organic traffic, and earn backlinks from other websites.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div
-              class="elementor-element elementor-element-9a57ad0 e-con-full e-flex elementor-invisible e-con e-child"
-              data-id="9a57ad0"
-              data-element_type="container"
-              data-settings='{"content_width":"full","background_background":"classic","animation":"fadeIn","animation_delay":1600}'
-            >
-              <div
-                class="elementor-element elementor-element-1f80f109 elementor-widget__width-auto elementor-widget elementor-widget-jkit_heading"
-                data-id="1f80f109"
-                data-element_type="widget"
-                data-widget_type="jkit_heading.default"
-              >
-                <div class="elementor-widget-container">
-                  <div
-                    class="jeg-elementor-kit jkit-heading align-left align-tablet- align-mobile- jeg_module_18_7_65c1ce9765ab7"
-                  >
-                    <div class="heading-section-title display-inline-block">
-                      <h6 class="heading-title">
-                        What Is the ROI of Digital Marketing?
-                      </h6>
-                    </div>
-                    <div class="heading-section-description">
-                    The ROI of digital marketing varies based on factors like industry and campaign goals but generally offers high returns due to precise targeting and real-time optimization.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+<!-- works starts -->
+
+<style>
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 80%;
+}
+
+.work {
+  flex: 0 0 calc(100% - 20px); /* Display 2 images per row on mobile */
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.work img {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease; /* Add transition for smooth effect */
+}
+
+.work img:hover {
+  transform: scale(1.1); /* Scale the image by 10% on hover */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.button {
+  margin: 1rem;
+  border: 1px solid white;
+}
+
+@media only screen and (min-width: 768px) {
+  .work {
+    flex: 0 0 calc(33.333% - 20px); /* Display 3 images per row on larger screens */
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .work {
+    flex: 0 0 calc(25% - 20px); /* Display 4 images per row on larger screens */
+  }
+}
+</style>
+
+<div class="container">
+<?php
+$directory = './works/'; // Directory where your images are located
+
+// Get all files in the directory
+$files = glob($directory . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
+
+// Output HTML for the first 9 images
+for ($i = 0; $i < min(count($files), 8); $i++) {
+    echo '<div class="work">';
+    echo '<img src="' . $files[$i] . '" alt="Work">';
+    echo '</div>';
+}
+?>
+
+</div>
+
+<div class="button-container jeg-elementor-kit jkit-button icon-position-after jeg_module_18_8_65c1ce9768f66">
+  <button class="button jkit-button-wrappe" onclick="loadMore()">Load More</button>
+</div>
+
+<script>
+function loadMore() {
+  var container = document.querySelector('.container');
+  var currentImage = container.querySelectorAll('.work').length;
+  var files = <?php echo json_encode($files); ?>;
+  var maxImages = files.length;
+  var imagesPerPage = 8; // Number of images to load per page
+
+  // Load additional images
+  for (var i = currentImage; i < currentImage + imagesPerPage && i < maxImages; i++) {
+    var workDiv = document.createElement('div');
+    workDiv.classList.add('work');
+    var img = document.createElement('img');
+    img.src = files[i];
+    img.alt = "Work " + (i + 1);
+    workDiv.appendChild(img);
+    container.appendChild(workDiv);
+  }
+
+  // Hide the "Load More" button if all images have been loaded
+  if (currentImage + imagesPerPage >= maxImages) {
+    document.querySelector('.button-container').style.display = 'none';
+  }
+}
+</script>
+
+
+
+
+
+<!-- works end -->
       <div
         class="elementor-element elementor-element-672c4dba e-flex e-con-boxed e-con e-parent"
         data-id="672c4dba"
@@ -1178,11 +1096,8 @@
                 <div
                   class="jeg-elementor-kit jkit-button icon-position-after jeg_module_18_8_65c1ce9768f66"
                 >
-                  <a href="#" class="jkit-button-wrapper">
-                    Contact Us<i
-                      aria-hidden="true"
-                      class="jki jki-right-arrow-light"
-                    ></i>
+                  <a href="./contact.php" class="jkit-button-wrapper">
+                    Contact Us
                   </a>
                 </div>
               </div>
@@ -1238,9 +1153,9 @@
               data-widget_type="text-editor.default"
             >
               <div class="elementor-widget-container">
-                Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
+                <!-- Consectetur adipiscing elit sed do eiusmod tempor incididunt ut
                 labore et dolore magna aliqua. Utenim minim veniam quis nostrud
-                exercitation.
+                exercitation. -->
               </div>
             </div>
           </div>
@@ -1269,7 +1184,7 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
+                            href="#"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -1295,7 +1210,7 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/blog/"
+                                href="#"
                                 class="category-blog"
                                 >Blog</a
                               >
@@ -1304,7 +1219,7 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-8/"
+                              href="#"
                               >The Ultimate Guide to SEO: Boosting Your
                               Website’s Visibility</a
                             >
@@ -1349,7 +1264,7 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
+                            href="#"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -1375,7 +1290,7 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/blog/"
+                                href="#"
                                 class="category-blog"
                                 >Blog</a
                               >
@@ -1384,7 +1299,7 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy/"
+                              href="#"
                               >Social Media Marketing Strategies for Small
                               Businesses</a
                             >
@@ -1402,7 +1317,7 @@
                       >
                         <div class="jkit-thumb">
                           <a
-                            href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
+                            href="#"
                           >
                             <div class="thumbnail-container">
                               <img
@@ -1429,7 +1344,7 @@
                           <div class="jkit-post-category">
                             <span>
                               <a
-                                href="https://kitpapa.net/rankz/category/insight/"
+                                href="#"
                                 class="category-insight"
                                 >Insight</a
                               >
@@ -1438,7 +1353,7 @@
                           <div class="jkit-post-meta"></div>
                           <h3 class="jkit-post-title">
                             <a
-                              href="https://kitpapa.net/rankz/ppc-vs-seo-which-digital-advertising-strategy-is-right-for-you-copy-2/"
+                              href="#"
                               >PPC vs. SEO: Which Digital Advertising Strategy
                               Is Right for You?</a
                             >
